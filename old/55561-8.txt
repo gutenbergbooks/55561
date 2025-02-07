@@ -1,4 +1,35 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 55561 ***
+The Project Gutenberg EBook of Fort Ticonderoga, by S. H. P. Pell
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: Fort Ticonderoga
+       A Short History
+
+Author: S. H. P. Pell
+
+Release Date: September 16, 2017 [EBook #55561]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK FORT TICONDEROGA ***
+
+
+
+
+Produced by Stephen Hutcheson and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+
+
+
+
 
          Cover: Montcalm Congratulating His Victorious Troops,
           Battle of Carillon, Fort Ticonderoga, July 8, 1758.
@@ -22,23 +53,23 @@
                    Reprinted for the Fort Ticonderoga Museum
                                   1966
 
-“_The_ little bronze flint _and_ tinder box illustrated, was found in
+"_The_ little bronze flint _and_ tinder box illustrated, was found in
 1888 by _the_ present Museum Director, then _a_ small boy. His brother
 dislodged _a_ stone while they were climbing around _the_ fort. Under
 _the_ stone was this box with flint _and_ tinder in it. Bronze _and of_
 French design, it must have belonged to some important officer, probably
 Montcalm de Levis, Bougainville _or_ Bourlamacque. _The_ busts represent
 Cupid _and_ Psyche; _the_ faces are extraordinarily beautiful _and_
-expressive. _The_ box measures 2¼ _by_ 1¼ inches.
+expressive. _The_ box measures 2-1/4 _by_ 1-1/4 inches.
 
 I consider this box _and the_ back plate _for the_ suit _of_ half-armor
 (_found a few years ago_) _the_ most interesting _of the_ thousands _of_
 articles found _at the_ Fort.
 
-_This_ little box stimulated _the_ Director’s interest. Even as a small
+_This_ little box stimulated _the_ Director's interest. Even as a small
 boy he hoped some day to preserve _and_ perhaps restore Fort
 Ticonderoga. Many _a_ year was to pass before _this_ dream could become
-_a_ reality.”
+_a_ reality."
 
     [Illustration: Flint and Tinder Box Which Started the Fort
     Ticonderoga Collection (Found by S. H. P. Pell, when a small boy)
@@ -59,7 +90,7 @@ _a_ reality.”
   The Aborigines, Chapter One                                           9
   Champlain, Chapter Two                                               11
   The Building of the Fort, Chapter Three                              19
-  Abercromby’s Defeat, Chapter Four                                    27
+  Abercromby's Defeat, Chapter Four                                    27
   The Amherst Campaign, Chapter Five                                   47
   The Calm Before the Storm, Chapter Six                               53
   Ethan Allen, Chapter Seven                                           54
@@ -91,7 +122,7 @@ _a_ reality.”
   Part of the Original Instructions to de Lotbiniere                   20
   Major Robert Rogers                                                  22
   Wounding of Baron Dieskau                                            24
-  Abercromby’s Expedition, Embarking at Head of Lake George            26
+  Abercromby's Expedition, Embarking at Head of Lake George            26
   The Marquis de Montcalm                                              28
   Brig. General Lord Howe                                              30
   Duc de Levis                                                         32
@@ -99,7 +130,7 @@ _a_ reality.”
   Major General Israel Putnam                                          34
   Replica of the Cross Erected by General Montcalm                     44
   Montcalm Congratulating His Victorious Troops                        45
-  Major Robert Rogers’ Battle on Snowshoes in 1757                     46
+  Major Robert Rogers' Battle on Snowshoes in 1757                     46
   Sir Jeffrey Amherst                                                  48
   General Amherst and the Burning Fort                                 50
   Ethan Allen                                                          54
@@ -107,7 +138,7 @@ _a_ reality.”
   Ethan Allen and Captain Delaplace                                    59
   Letter from Ethan Allen                                           60-61
   Allen Needs You at Ti                                                63
-  Ethan Allen’s Blunderbuss                                            65
+  Ethan Allen's Blunderbuss                                            65
   Benedict Arnold                                                      66
   Major General Richard Montgomery                                     68
   General Knox                                                         70
@@ -128,9 +159,9 @@ _a_ reality.”
   Fort Ticonderoga and the Pavilion, 1827                              96
   The Silver Bullet                                                    98
   Restoration Model of Fort Ticonderoga                               100
-  Thomas Cole Painting of Fort, Early 1820’s                          101
-  Entrance to Place D’Armes                                           103
-  The Place D’Armes                                                   105
+  Thomas Cole Painting of Fort, Early 1820's                          101
+  Entrance to Place D'Armes                                           103
+  The Place D'Armes                                                   105
   Fort Ticonderoga in 1959                                            107
   The Ethan Allen Door                                                109
   George Washington in Uniform of American General                    112
@@ -161,7 +192,7 @@ was silence and desolation. The fierce Iroquois from the south had not
 long before slaughtered the peaceful Algonquin Indians and driven the
 survivors back into the mountains, where they were living a hand to
 mouth existence. In fact so degenerate had they become that the Iroquois
-referred to them as “Adirondacks” or “Bark-eaters,” because of their
+referred to them as "Adirondacks" or "Bark-eaters," because of their
 necessity of depending on the bark of trees during the winter when game
 was scarce. Remains of these people are so many that for a hundred years
 arrow heads and other stone implements have been found on the shore of
@@ -171,7 +202,7 @@ shown by the many bits of pottery and hoes that are found, but little is
 definitely known of them or their habits.
 
     [Illustration: Champlain and the Iroquois Near Ticonderoga, July 30,
-    1609  From “Champlain’s Life and Travels, 1613”]
+    1609  From "Champlain's Life and Travels, 1613"]
 
 
 
@@ -181,7 +212,7 @@ definitely known of them or their habits.
 
 
 In May, 1609, the same year that Hendrick Hudson discovered and named
-Hudson’s River, Samuel de Champlain with a contingent of eleven
+Hudson's River, Samuel de Champlain with a contingent of eleven
 Frenchmen, a small body of Montagnais Indians and between two and three
 hundred Hurons left Quebec on an exploring expedition to the south.
 
@@ -195,11 +226,11 @@ They traveled in twenty-four canoes and soon entered Lake Champlain,
 and, as they now were approaching the Iroquois country, they traveled by
 night and hid in the woods by day.
 
-Champlain’s own description of his discovery and the battle at
-Ticonderoga from his “Voyages and Discoveries” published in Paris, 1613
+Champlain's own description of his discovery and the battle at
+Ticonderoga from his "Voyages and Discoveries" published in Paris, 1613
 ... reads as follows:
 
-“We left next day, continuing our route along the river as far as the
+"We left next day, continuing our route along the river as far as the
 mouth of the Lake. Here are a number of beautiful, but low islands
 filled with very fine woods and prairies, a quantity of game and wild
 animals, such as stags, deer, fawns, roe-bucks, bears and other sorts of
@@ -210,13 +241,13 @@ though agreeable, are not inhabited by any Indians, in consequence of
 their wars. They retire from the rivers as far as possible, deep into
 the country, in order not to be so soon discovered.
 
-“Next day we entered the lake, which is of considerable extent; some 50
+"Next day we entered the lake, which is of considerable extent; some 50
 or 60 leagues in length, where I saw 4 beautiful islands, 10, 12 and 15
 leagues in length formerly inhabited, as well as the Iroquois river, by
 Indians, but abandoned since they have been at war the one with the
 other.
 
-“Several rivers, also, discharge into the lake, surrounded by a number
+"Several rivers, also, discharge into the lake, surrounded by a number
 of fine trees similar to those we have in France, with a quantity of
 vines handsomer than any I ever saw; a great many chestnuts, and I have
 not yet seen except the margin of the lake, where there is a large
@@ -239,7 +270,7 @@ head of it, which they prize highly, saying, when they have a headache
 they let blood with the teeth of this fish at the seat of the pain which
 immediately goes away.
 
-“Continuing our route along the west side of the lake, contemplating the
+"Continuing our route along the west side of the lake, contemplating the
 country, I saw on the east side very high mountains capped with snow. I
 asked the Indians if those parts were inhabited? They answered me, Yes,
 and that they were Iroquois, and that there were in those parts
@@ -259,14 +290,14 @@ from some prisoners we took, who, by means of some Algonquin
 interpreters, who were acquainted with the Iroquois language, conversed
 freely with me about all they had noticed.
 
-“Now, on coming within about two or three days journey of the enemy’s
+"Now, on coming within about two or three days journey of the enemy's
 quarters, we traveled only by night and rested by day. Nevertheless,
 they never omitted their usual superstitions to ascertain whether their
 enterprise would be successful, and often asked me whether I had dreamed
 and seen their enemies. I answered no; and encouraged them and gave them
 good hopes. Night fell, and we continued our journey until morning when
 we withdrew into the picket fort to pass the remainder of the day there.
-About ten or eleven o’clock I lay down after having walked some time
+About ten or eleven o'clock I lay down after having walked some time
 around our quarters, and falling asleep, I thought I beheld our enemies,
 the Iroquois, drowning within sight of us in the Lake near a mountain;
 and being desirous to save them, that our savage allies told me that I
@@ -277,9 +308,9 @@ they no longer doubted but they should meet with success.
 
     [Illustration: Marquis de Lotbiniere]
 
-“At nightfall we embarked in our canoes to continue our journey, and as
+"At nightfall we embarked in our canoes to continue our journey, and as
 we advanced very softly and noiselessly, we encountered a war party of
-Iroquois, on the twenty-ninth of the month, about ten o’clock, at night,
+Iroquois, on the twenty-ninth of the month, about ten o'clock, at night,
 at the point of a cape which juts into the lake on the west side. They
 and we began to shout, each seizing his arms. We withdrew towards the
 water and the Iroquois repaired on shore, and arranged all their canoes,
@@ -287,12 +318,12 @@ the one beside the other, and began to hew down trees with villainous
 axes, which they sometimes got in war, and others of stone, and
 fortified themselves very securely.
 
-“Our party, likewise, kept their canoes arranged the one alongside the
+"Our party, likewise, kept their canoes arranged the one alongside the
 other, tied to poles so as not to run adrift, in order to fight all
 together should need be. We were on the water about an arrow-shot from
 their barricades.
 
-“When they were armed and in order, they sent two canoes from the fleet
+"When they were armed and in order, they sent two canoes from the fleet
 to know if their enemies wished to fight, who answered they desired
 nothing else; but that just then, there was not much light, and that we
 must wait for day to distinguish each other, and that they would give us
@@ -311,7 +342,7 @@ one of the canoes belonging to the savage Montagnais. After being
 equipped with light armour we took each an arquebus and went ashore. I
 saw the enemy leave their barricade; they were about 200 men, of strong
 and robust appearance, who were coming slowly towards us, with a gravity
-and assurance which greatly pleased me, led on by three Chiefs. Our’s
+and assurance which greatly pleased me, led on by three Chiefs. Our's
 were marching in similar order, and told me that those who bore three
 lofty plumes were the Chiefs, and that there were but these three and
 they were to be recognized by those plumes, and that I must do all I
@@ -322,9 +353,9 @@ them all; but there was no help for that; that I was very glad to
 encourage them and to manifest to them my good will when we should be
 engaged.
 
-“The moment we landed they began to run about two hundred paces toward
+"The moment we landed they began to run about two hundred paces toward
 their enemies who stood firm, and had not yet perceived my companions,
-who went into the bush with some savages. Our’s commenced calling me in
+who went into the bush with some savages. Our's commenced calling me in
 a loud voice, and making way for me, opened in two parts, and placed me
 at their head, marching about 20 paces in advance, until I was within 30
 paces of the enemy. The moment they saw me, they halted, gazing at me
@@ -332,7 +363,7 @@ and I at them. When I saw them preparing to shoot at us, I raised my
 arquebus, and aiming directly at one of the three Chiefs, two of them
 fell to the ground by this shot and one of their companions received a
 wound of which he died afterwards. I had put 4 balls in my arquebus.
-Our’s on witnessing a shot so favorable for them, set up such tremendous
+Our's on witnessing a shot so favorable for them, set up such tremendous
 shouts that thunder could not have been heard; and yet, there was no
 lack of arrows on one side and the other. The Iroquois were greatly
 astonished seeing two men killed so instantaneously, notwithstanding
@@ -346,16 +377,16 @@ also killed several of them and took ten or twelve prisoners. The rest
 carried off the wounded. Fifteen or sixteen of ours were wounded by
 arrows; they were promptly cured.
 
-“After having gained the victory, they amused themselves plundering
+"After having gained the victory, they amused themselves plundering
 Indian corn and meal from the enemy; also their arms which they had
 thrown away in order to run the better. And having feasted, danced and
 sung, we returned three hours afterwards with the prisoners.
 
-“The place where this battle was fought is in 43 degrees some minutes
-latitude, and I named it Lake Champlain.”
+"The place where this battle was fought is in 43 degrees some minutes
+latitude, and I named it Lake Champlain."
 
 Historians agree that this fight took place on the low ground, northeast
-of the Fort at Ticonderoga. It was the Iroquois’ first introduction to
+of the Fort at Ticonderoga. It was the Iroquois' first introduction to
 firearms and forever alienated that great fighting confederation from
 the French.
 
@@ -381,7 +412,7 @@ France, came down from Crown Point to select a site for a new fort. His
 aide-memoire from de Vaudreuil is in the Fort Library. In October he
 started cutting the great trees and leveling the ground to build the
 stone fortress which he first called Fort Vaudreuil, but which was
-afterwards given the name of Carillon, “A Chime of Bells,” named from
+afterwards given the name of Carillon, "A Chime of Bells," named from
 the sound of the falls where the water from Lake George runs into Lake
 Champlain. He employed the garrison from Crown Point and at one time as
 many as 2,000 men were at work and made extraordinary progress,
@@ -391,11 +422,11 @@ Robert Rogers, the famous ranger, several times during the building of
 the Fort reconnoitered and reported on the progress of the work.
 September 9, 1756, he says:
 
-“I was within a mile of Ticonderoga fort where I endeavored to
-reconnoitre the enemy’s works and strength. They were engaged in raising
+"I was within a mile of Ticonderoga fort where I endeavored to
+reconnoitre the enemy's works and strength. They were engaged in raising
 the walls of the fort and erecting a large blockhouse near the southeast
 corner of the fort with ports in it for cannon. East from the blockhouse
-was a battery which I imagined commanded the lake.”
+was a battery which I imagined commanded the lake."
 
     [Illustration: Part of the Original Instructions for de Lotbiniere
     to Start Construction of Fort Ticonderoga
@@ -407,18 +438,18 @@ seventeen head of cattle and set fire to the wood piles of the garrison.
 To the horns of one of the cattle, he attached a note to the commander
 of the fort:
 
-“I am obliged to you, sir, for the repose you have allowed me to take. I
+"I am obliged to you, sir, for the repose you have allowed me to take. I
 thank you for the fresh meat you have sent me. I will take care of my
 prisoners. I request you to present my compliments to the Marquis de
 Montcalm.
 
-              (Signed) “Rogers, Commander of the Independent Companies.”
+              (Signed) "Rogers, Commander of the Independent Companies."
 
 In 1755, Baron de Dieskau had gone from Crown Point to attack Sir
 William Johnson at Lake George. Dieskau was wounded, and his defeated
 army fought their way back to Ticonderoga.
 
-In March, 1758, Rogers’ famous battle on snowshoes was fought a few
+In March, 1758, Rogers' famous battle on snowshoes was fought a few
 miles from Ticonderoga when the French under Captain Durentaye,
 commanding a party of Indians and Canadians, captured and destroyed most
 of his force.
@@ -426,9 +457,9 @@ of his force.
 The guns which De Lotbiniere mounted on the Fort were mostly from Crown
 Point and Montreal but some were brought from Fort William Henry in 1757
 when Montcalm captured that fort from Lieut. Col. Munro. It was after
-Munro’s surrender that the famous massacre of Fort William Henry
+Munro's surrender that the famous massacre of Fort William Henry
 occurred. The British garrison was marching unarmed to Fort Edward when
-it was attacked by Montcalm’s Indians. The French officers did their
+it was attacked by Montcalm's Indians. The French officers did their
 best to protect the garrison but many were slain.
 
 De Lotbiniere wrote to the Minister from Carillon on the 31st October,
@@ -436,12 +467,12 @@ De Lotbiniere wrote to the Minister from Carillon on the 31st October,
 
     [Illustration: Major Robert Rogers]
 
-“My Lord:—
+"My Lord:--
 
-“I was so much occupied last year at the departure of the last ships
+"I was so much occupied last year at the departure of the last ships
 that it was not possible for me to render you an account of the St.
 Frederic campaign, which M. de Vaudreuil ordered me to begin immediately
-after M. de Dieskau’s affair. I left with orders to examine the Carillon
+after M. de Dieskau's affair. I left with orders to examine the Carillon
 Point ... where the waters of the Grande Baye and of Lake St. Sacrement
 meet. At this point is the head of the navigation of Lake Champlain. M.
 de Vaudreuil feared with reason that, the enemy gaining possession of
@@ -451,7 +482,7 @@ in the midst of our settlements at the moment we least expected, it
 being possible for him to make during winter all necessary preparations
 to operate in the spring.
 
-“I found on my arrival at St. Frederic an intrenchment begun on wrong
+"I found on my arrival at St. Frederic an intrenchment begun on wrong
 principles which I felt obliged to continue to be agreeable to the
 Commandant of the Army who feared the enemy might at any moment attack
 the Fort. At last, on the 12th October, on the order of M. le Marquis de
@@ -459,13 +490,13 @@ Vaudreuil, these works ceased and we moved the camp from St. Frederic to
 Carillon to begin a Fort at the location which I should find to be most
 suitable for such purpose.
 
-“I decided to establish it on the ridge of rock which runs from the
+"I decided to establish it on the ridge of rock which runs from the
 point to the falls of Lake St. Sacrement. As the season did not permit
 of our hoping to accomplish much work before winter I was obliged to
 restrict my efforts more than I would have liked so as to at least place
 the garrison under cover until the spring.
 
-“I contented myself with reserving sufficient ground in the front for a
+"I contented myself with reserving sufficient ground in the front for a
 camp of 2,000 to 3,000 men, if need be, covered by the Fort, and
 although I was obliged to operate in the midst of a wood without being
 able to see while surveying more than thirty yards ahead of me, I think
@@ -483,22 +514,22 @@ ice beginning to form.
     [Illustration: Wounding of Baron Dieskau. From a Painting in the
     Museum]
 
-“I remained until February hoping to be able to use the garrison to
+"I remained until February hoping to be able to use the garrison to
 advance the works; but finding that it was not possible to make the
 garrison work, I decided to return to Montreal after the barracks had
 been finished, to recuperate from the fatigues of the campaign and the
 unwholesome food I had taken.
 
-“I left [Montreal] this year [1756] at the end of April and arrived at
+"I left [Montreal] this year [1756] at the end of April and arrived at
 the Fort the first days of May, when I resumed work which dragged on for
 nearly a month not having the required workmen. During this campaign we
 raised all the Fort to the height of the cordon. The earth ramparts were
-made,—the platforms of the bastions completed, a cover built for each
+made,--the platforms of the bastions completed, a cover built for each
 bastion bomb-proof, two stone barracks built, the ditches of the place
 dug to the rock everywhere, part of the rock even removed on two fronts,
 the ditches of the two demi-lunes also excavated to the rock, a
 store-house established outside the Fort as well as a hospital. The
-parapet was raised on the two fronts exposed to the enemy’s batteries if
+parapet was raised on the two fronts exposed to the enemy's batteries if
 he undertook to besiege this place, the exterior part of the Fort
 supported by masonry resting on the solid rock. The next campaign will
 be devoted to overhauling the main body of the place and building the
@@ -518,13 +549,13 @@ communicated the information which I have acquired on this district will
 not let you ignore how advantageous it is and of what consequence it is
 to France. I presume to flatter myself, My Lord, that you will consider
 me for the position occupied heretofore by M. de Lery. I think I have
-worked in a manner to deserve it.”
+worked in a manner to deserve it."
 
 It was during the summer of 1757 that De Lotbiniere started to
 substitute stone for most of the timbers he had used on the outer walls
 of the Fort.
 
-    [Illustration: Abercromby’s Expedition Against Fort Ticonderoga
+    [Illustration: Abercromby's Expedition Against Fort Ticonderoga
     Embarking at Head of Lake George
     Courtesy Glens Falls Insurance Company]
 
@@ -532,7 +563,7 @@ of the Fort.
 
 
                               CHAPTER FOUR
-                          Abercromby’s Defeat
+                          Abercromby's Defeat
 
 
 In 1758 the Fort was almost completed. General James Abercromby had
@@ -546,11 +577,11 @@ William Henry in hundreds of batteaux and whale boats to attack Fort
 Carillon. It must have been an extraordinarily beautiful sight, that
 vast fleet of little boats filled with the Red Coats and the plaids of
 Highlanders. Early in the morning of July 6th the army landed on what is
-now known as Howe’s Cove at the northern end of Lake George. The army
+now known as Howe's Cove at the northern end of Lake George. The army
 immediately advanced in three columns but was soon lost in the dense
 forest which then covered the whole country. An advance party of French
 under the Sieur de Trepezec had been watching the landing from what the
-French called Mount Pelee, but which is now called Roger’s Rock. In
+French called Mount Pelee, but which is now called Roger's Rock. In
 trying to return to the Fort they had also lost their way and met one of
 the advancing columns, commanded by George Augustus, Viscount Howe, a
 grandson of George the First of England. At the first fire Lord Howe was
@@ -563,13 +594,13 @@ death in the following letter:
 
 To Mr. Calcraft, dated Camp at Lake George, 11th July, 1758:
 
-“Sir:
+"Sir:
 
-“It is with the utmost concern, I write you of the death of Lord Howe.
+"It is with the utmost concern, I write you of the death of Lord Howe.
 On the 6th the whole army landed without opposition, at the carrying
-place, about seven miles from Ticonderoga. About two o’clock, they
-march’d in four columns, to invest the breast work, where the enemy was
-encamp’d, near the Fort. The Rangers were before the army and the light
+place, about seven miles from Ticonderoga. About two o'clock, they
+march'd in four columns, to invest the breast work, where the enemy was
+encamp'd, near the Fort. The Rangers were before the army and the light
 infantry and marksmen at the heads of the columns. We expected, and met
 with some opposition near a small river, which we had to cross. When the
 firing began on the part of the left column, Lord Howe thinking it would
@@ -581,28 +612,28 @@ the left side, and (as the surgeans say) pierced his lungs, and heart,
 and shattered his back bone. I was about six yards from him, he fell on
 his back and never moved, only his hands quivered an instant.
 
-“The French party was about 400 men, ’tis computed 200 of them were
+"The French party was about 400 men, 'tis computed 200 of them were
 killed, 160, whereof five are officers, are prisoners; their commanding
 officer, and the partizan who conducted them were killed, by the
-prisoner’s account, in short, very few, if any, got back.
+prisoner's account, in short, very few, if any, got back.
 
-“The loss our country has sustained in His Lordship is inexpressible,
-and I’m afraid irreparable. The spirit he inspired in the troops,
+"The loss our country has sustained in His Lordship is inexpressible,
+and I'm afraid irreparable. The spirit he inspired in the troops,
 indefatigable pains he took in forwarding the publick service, the
-pattern he show’d of every military virtue, can only be believed by
+pattern he show'd of every military virtue, can only be believed by
 those, who were eye witnesses of it. The confidence the army, both
 regular and provincial, had in his abilities as a general officer, the
-readiness with which every order of his, or ev’n intimation of what
-would be agreeable to him, was comply’d with, is almost incredible. When
+readiness with which every order of his, or ev'n intimation of what
+would be agreeable to him, was comply'd with, is almost incredible. When
 his body was brought into camp scarce an eye was free from tears.
 
-“As his Lordship had chose me to act as an aide de camp to him, when he
+"As his Lordship had chose me to act as an aide de camp to him, when he
 was to have commanded on the winter expedition, which did not take
 place, and afterwards on his being made a brigadier general, had got me
 appointed Brigade Major, and I had constantly lived with him since that
-time....”
+time...."
 
-                                               “(Signed) Al. Monypenny.”
+                                               "(Signed) Al. Monypenny."
 
     [Illustration: Brig. General Lord Howe]
 
@@ -618,17 +649,17 @@ almost superhuman energy he threw an earthwork across the whole
 peninsula of Ticonderoga, about three-quarters of a mile from the Fort.
 It consisted of a great wall of logs, and an abatis of trees with their
 branches sharpened, a hundred feet or so from the trenches. He, himself,
-commanded the center, the Chevalier de Lévis the right, and the Colonel
+commanded the center, the Chevalier de L�vis the right, and the Colonel
 de Bourlamaque the left. Early in the morning the British columns
 attacked. All through that hot, sultry July day the fight went on.
 Abercromby had established his headquarters at the French sawmill but
-had been deceived as to the strength of Montcalm’s defenses. In this
+had been deceived as to the strength of Montcalm's defenses. In this
 fight the 42nd Highlanders, the famous Black Watch, suffered enormously.
 Many of the Highlanders fought their way through the abatis and some
 even reached the great log wall, only to be killed by bayonet or bullet.
-The Royal American, a regiment still in the British army as the King’s
+The Royal American, a regiment still in the British army as the King's
 Royal Rifle Corps, had losses second only to the Black Watch. And at the
-end of the day Abercromby’s army was forced to retreat, leaving the
+end of the day Abercromby's army was forced to retreat, leaving the
 French in command of the field. The British and Colonial losses in this
 fight were almost as great as the whole French defending force.
 
@@ -639,9 +670,9 @@ Day of July, 1758
  (Translated from a contemporary French manuscript report in the Museum
                                 Library)
 
-“The Marquis de Vaudreuil, uncertain of the movements of the enemy,
+"The Marquis de Vaudreuil, uncertain of the movements of the enemy,
 thought necessary at the beginning of this campaign to distribute his
-forces. He appointed the Chevalier de Lévis to execute a secret
+forces. He appointed the Chevalier de L�vis to execute a secret
 expedition with a picked detachment, of which 400 men were chosen from
 the land troops. The rest of these troops were sent by order of the
 Marquis de Montcalm to defend the border of Lake Saint Sacrement [Lake
@@ -651,9 +682,9 @@ the enemy had gathered, near the ruins of Fort William Henry, an army of
 20,000 to 25,000 men and that their intention was to advance immediately
 upon him.
 
-    [Illustration: Duc de Lévis]
+    [Illustration: Duc de L�vis]
 
-“He imparted at once this news to the Marquis de Vaudreuil and did not
+"He imparted at once this news to the Marquis de Vaudreuil and did not
 hesitate to take an advanced position which would deceive the enemy,
 retard his movement and give time for the colonial help to arrive. In
 consequence, le Sieur de Bourlamaque was ordered to take possession of
@@ -680,16 +711,16 @@ and service at the Fort of Carillon.
     _Tho^s. Jefferys, Geographer to his Royal Highness the_
     Prince of Wales.]
 
-“The Marquis de Montcalm made the Sieurs de Pontleroy and Désandrouins,
+"The Marquis de Montcalm made the Sieurs de Pontleroy and D�sandrouins,
 Engineers, reconnoitre and determine a site for a fortified position
 which could cover this fort; and as we had only a few Canadians and only
 15 savages, he took from the French battalions two troops of volunteers,
 the command of which was given to the Sieur Bernard, captain in the
 Bearn Regiment, and Duprat, captain in La Sarre Regiment.
 
-“In the evening of the 5th scouts which we had on Lake Saint Sacrement
+"In the evening of the 5th scouts which we had on Lake Saint Sacrement
 informed us that they had seen large numbers of barges which might be
-and were, in fact, the vanguard of the enemy’s army. At once the order
+and were, in fact, the vanguard of the enemy's army. At once the order
 was given to the troops of the Portage and the Chute camps to take their
 armaments, to spend the night at the bivouac, and to clear the
 equipages. The volunteers of Duprat were sent to take position on a
@@ -704,16 +735,16 @@ intermediary between the Pelee Mountain and the Portage camps. Measures
 were taken also to throw light on a possible disembarkment which the
 enemy might make on the right bank of the lake.
 
-“The 6th. At four o’clock in the morning, the vanguard of the opponent’s
+"The 6th. At four o'clock in the morning, the vanguard of the opponent's
 army was located in sight of the portage. At once the Marquis de
-Montcalm sent orders to the Sieurs de Pontleroy and Désandrouins to lay
+Montcalm sent orders to the Sieurs de Pontleroy and D�sandrouins to lay
 out, in front of Carillon on the ground already marked, trenches and
 abatis and to the 2nd Battalion of Berry to work at them with its
 ensigns.
 
     [Illustration: Major General Israel Putnam]
 
-“The enemy began to disembark at nine o’clock; the Sieur de Bourlamaque
+"The enemy began to disembark at nine o'clock; the Sieur de Bourlamaque
 retreated then in their presence with the 3rd battalion from the portage
 and in the best of order. He joined the Marquis de Montcalm who was
 waiting for him, formed for battle, on the heights at the right bank of
@@ -731,23 +762,23 @@ superior force. The English made an important loss in the person of Lord
 Howe, quartermaster general of their army and Colonel of one of the
 Regiments of old England.
 
-“At six o’clock in the evening, the Sieur Duprat, having announced that
+"At six o'clock in the evening, the Sieur Duprat, having announced that
 the enemy was heading towards the Bernetz Creek with pioneers and that
 their plan was evidently to throw a bridge over it, the Marquis de
 Montcalm sent the order to retreat and started his own retreat towards
 the heights of Carillon, where he arrived at sunset. That same evening a
-portion of the opponents’ regular troops and Rangers occupied the two
+portion of the opponents' regular troops and Rangers occupied the two
 banks of the Chute River, going towards the Bernetz Creek and
 entrenching there. The rest of their army occupied the place of
 disembarkment and the portage, and entrenched there also.
 
-“The 7th. The French army was all employed working at the abatis which
+"The 7th. The French army was all employed working at the abatis which
 had been started the day before by the 2nd Berry Battalion. The officers
-were setting the example and the flags were hoisted—the plan of the
+were setting the example and the flags were hoisted--the plan of the
 defences had been laid out on the heights, 650 fathoms from Carillon
 fort.
 
-“On the left side it was backed up by an embankment 80 fathoms away from
+"On the left side it was backed up by an embankment 80 fathoms away from
 the Chute River, the top of which was capped by a wall. This wall was
 flanked by a gap back of which 6 cannon were to be placed to fire at it
 as well as to the river. On the right it was also backed by an
@@ -758,20 +789,20 @@ only placed there the day after the battle. Also the guns of the Fort
 were pointed toward this plain as well as at any other disembarkment
 which might be effected on the left.
 
-“The center followed the sinuosities of the ground, keeping the top of
+"The center followed the sinuosities of the ground, keeping the top of
 the height, and all the parts flanked one another reciprocally. Several,
 to tell the truth, were hit there, as well as on the right and on the
-left by a cross fire of the enemy, but it was because we didn’t have
+left by a cross fire of the enemy, but it was because we didn't have
 time to put up traverses. That kind of defence was made by tree trunks
 put one on top of the other, and had in front of it fallen trees the
 branches of which, cut and sharpened, gave the effect of a chevaux de
 frise.
 
-“Between 6 and 8 o’clock in the evening the piquets of our troops,
-detached by order of the Chevalier de Lévis, arrived at the camp and the
-Chevalier de Lévis himself went there at night.
+"Between 6 and 8 o'clock in the evening the piquets of our troops,
+detached by order of the Chevalier de L�vis, arrived at the camp and the
+Chevalier de L�vis himself went there at night.
 
-“All day our volunteers fired against the Rangers of the enemy. General
+"All day our volunteers fired against the Rangers of the enemy. General
 Abercromby with the main part of the militia and the balance made up of
 regular troops advanced up to the falls. He had sent there several
 barges and pontoons mounted with two guns each. These troops built also
@@ -779,7 +810,7 @@ on the same day several trenches, one in front of the other, of which
 the nearest one to our abatis was hardly a cannon range away. We spent
 the night in bivouac along side the trenches.
 
-“The 8th. At dawn we beat the drums so as to let all the troops know
+"The 8th. At dawn we beat the drums so as to let all the troops know
 their posts for the defense of the entrenchment, following the above
 arrangement, which was about that in which they worked. The army was
 composed at the right of battalions of La Reine, La Sarre, Royal
@@ -787,41 +818,41 @@ Roussillon, Languedoc and Guyenne Regiments and two Berry and the one
 battalion of the Bearn Regiment and also of 450 Canadians or Marines
 which brought the total to 3,000 fighting men.
 
-“At the left of the line they posted the Sarre and the Languedoc
+"At the left of the line they posted the Sarre and the Languedoc
 battalions and the two piquets that had arrived the day before. The
 volunteers of Bernard and Duprat were guarding the gap on the Chute
 River.
 
-“The center was occupied by the first Berry Battalion, by one Royal
-Roussillon and by the rest of the piquets of the Chevalier de Lévis.
+"The center was occupied by the first Berry Battalion, by one Royal
+Roussillon and by the rest of the piquets of the Chevalier de L�vis.
 
-“Battalions of La Reine, the Bearn and the Guyenne defended the right
+"Battalions of La Reine, the Bearn and the Guyenne defended the right
 and in the plain between the embankment of this right [flank] and the
 Saint Frederic River they had posted the colonial troops and the
 Canadians, defended also by abatis. On the whole front of the line each
 battalion had back of itself a company of grenadiers and a piquet in
 reserve to support their battalion and also to be able to move where
-they might be needed. The Chevalier de Lévis took charge of the right,
+they might be needed. The Chevalier de L�vis took charge of the right,
 the Sieur de Bourlamaque of the left, the Marquis de Montcalm kept the
 center for himself.
 
-“This arrangement, fixed and known, the troops at once fell back to
+"This arrangement, fixed and known, the troops at once fell back to
 work, some of them busy improving the abatis, the rest erecting the two
 batteries mentioned above and a redoubt to protect the right.
 
-“That day in the morning, Colonel [Sir William] Johnson joined the
-English army with 300 savages of the Five Nations with ‘Tchactas,’ the
+"That day in the morning, Colonel [Sir William] Johnson joined the
+English army with 300 savages of the Five Nations with 'Tchactas,' the
 Wolf, and Captain Jacob with 140 more. Soon after we saw them, as well
 as some Rangers, standing on a mountain opposite Carillon on the other
 side of the Chute River. They even discharged much musketry which
 interrupted the work. We did not bother answering them.
 
-“At half past twelve, the English army debouched upon us. The company of
+"At half past twelve, the English army debouched upon us. The company of
 grenadiers, the volunteers and the advanced guards retreated in good
 order and joined the line again. At the same movement and at a given
 signal all the troops took their posts.
 
-“The left was attacked first by two columns, one of which was trying to
+"The left was attacked first by two columns, one of which was trying to
 turn the trenches and found itself under the fire of La Sarre Regiment,
 the other directed its efforts on a salient between the Languedoc and
 the Berry battalions. The center, where the Royal Roussillon was, was
@@ -830,48 +861,48 @@ the right between the Bearn and La Reine battalions. All these columns
 were intermingled with their Rangers and their best riflemen, covered by
 the trees, kept up a murderous fire.
 
-“At the beginning of the fight several barges and pontoons coming from
+"At the beginning of the fight several barges and pontoons coming from
 the Chute advanced in sight of Carillon. The steadiness of the
 volunteers of Bernard and Duprat, supported by Sieur de Poulharies at
 the head of a company of grenadiers and of a piquet of the Royal
 Roussillon, with a few cannon shots fired from the fort, made them
 retreat.
 
-“These different attacks were almost all in the afternoon and almost
+"These different attacks were almost all in the afternoon and almost
 everywhere of the greatest intensity.
 
-“As the Canadians and the colonial troops had not been attacked they
+"As the Canadians and the colonial troops had not been attacked they
 directed their fire upon the column which was attacking our right and
 which from time to time was within their range. This column, made up of
 English grenadiers and of Scotch Highlanders, charged repeatedly for
 three hours without either being rebuked or broken up, and several were
 killed at only fifteen feet from our lines.
 
-“At about five o’clock the column which had attacked vigorously the
+"At about five o'clock the column which had attacked vigorously the
 Royal Roussillon threw itself back on the salient defended by the
 Regiment of Guyenne and by the left wing of the Bearn, the column which
 had attacked the right wing drew back also, so that the danger became
-urgent in those parts. The Chevalier de Lévis moved there with a few
+urgent in those parts. The Chevalier de L�vis moved there with a few
 troops of the right [wing] at which the enemy was shooting. The Marquis
 de Montcalm hastened there also with some of the reserves and the enemy
 met a resistance which slowed up, at last, their ardor.
 
-“The left was still standing up against the firing of two columns which
+"The left was still standing up against the firing of two columns which
 were endeavoring to break through that part. The Sieur de Bourlamaque
-had been dangerously wounded there at about 4 o’clock and Sieur de
+had been dangerously wounded there at about 4 o'clock and Sieur de
 Senezeraque and de Privast, Lieutenant Colonels of La Sarre and the
 Languedoc Regiments were taking his place and giving the best of orders.
 The Marquis de Montcalm rushed there several times and took pains to
 have help sent there in all critical moments.
 
-“At 6 o’clock the two columns on the right gave up attacking the Guyenne
+"At 6 o'clock the two columns on the right gave up attacking the Guyenne
 battalions and made one more attempt against the Royal Roussillon and
-Berry. At last, after a last effort to the left, at 7 o’clock, the enemy
+Berry. At last, after a last effort to the left, at 7 o'clock, the enemy
 retreated, protected by the shooting of the Rangers, which kept on until
 night. They abandoned on the battlefield their dead and some of their
 wounded.
 
-“The darkness of the night, the exhaustion and small number of our
+"The darkness of the night, the exhaustion and small number of our
 troops, the strength of the enemy which, in spite of its defeat, was
 still in numbers superior to us, the nature of these woods in which one
 could not, without assistance of the savages, start out against an army
@@ -883,13 +914,13 @@ escape attack from the neighboring heights by traverses, to improve the
 Canadian abatis, and to finish the batteries of the left and of the
 right [flanks] which had been begun in the morning.
 
-“The 9th. Our volunteers having informed the Marquis de Montcalm that
+"The 9th. Our volunteers having informed the Marquis de Montcalm that
 the post of the Chute and of the portage seemed abandoned, he gave
-orders to the Chevalier de Lévis to go the next day at day break with
+orders to the Chevalier de L�vis to go the next day at day break with
 the grenadiers, the volunteers and the Canadians to reconnoitre what had
 become of the enemy.
 
-“The Chevalier de Lévis advanced beyond the portage. He found everywhere
+"The Chevalier de L�vis advanced beyond the portage. He found everywhere
 the vestige of a hurried flight wounded, supplies, abandoned equipage,
 debris of barges and charred pontoons, unquestionable proofs of the
 great loss which the enemy had made. We estimate it at about 4,000 men
@@ -899,34 +930,34 @@ have lost several officers and generals, Lord Howe, Sir Spitall, Major
 General Commander in Chief of the forces of New York, and several
 others.
 
-“The savages of the Five Nations remained as spectators at the tail of
+"The savages of the Five Nations remained as spectators at the tail of
 the column; they were waiting probably to declare themselves after the
 result of a fight which, to the English, did not seem doubtful.
 
-“The orders which were published in their colonies for the levying and
+"The orders which were published in their colonies for the levying and
 upkeep of this army, announces the general invasion of Canada and the
 same statements are made in all the commissions of their officers and
 militia. We must do them justice in saying that they attacked us with
 the most ardent tenacity. It is not ordinary that trenches have stood
-seven hours’ attack at a stretch and almost without respite.
+seven hours' attack at a stretch and almost without respite.
 
-“We owe this victory to good manœuvres of our generals before and during
-the action and to the extraordinary, unbelievable gallantry of our
-troops. All the officers of the army behaved in a way that each one of
-them deserves special praise. We have had about 350 men killed and
-wounded, 38 of which were officers.”
+"We owe this victory to good manoeuvres of our generals before and
+during the action and to the extraordinary, unbelievable gallantry of
+our troops. All the officers of the army behaved in a way that each one
+of them deserves special praise. We have had about 350 men killed and
+wounded, 38 of which were officers."
 
-A British account of the fight from “An Historical Journal of the
-Campaigns in North America,” London, 1759, is as follows:
+A British account of the fight from "An Historical Journal of the
+Campaigns in North America," London, 1759, is as follows:
 
-“A schooner arrived, from Boston, this morning; by this vessel we had
+"A schooner arrived, from Boston, this morning; by this vessel we had
 the satisfaction to receive a bag of letters, some from Europe, and
 others from the southward, but none from the eastward; among those which
-I got was the following one, from my friend in the Commander in Chief’s
+I got was the following one, from my friend in the Commander in Chief's
 army, dated Albany, July the 29th, 1758.
 
-‘I scratched a few lines to you, on the 11th instant, from Fort Edward,
-and, as I wrote in great pain, I think it was scarce legible;—such, as
+'I scratched a few lines to you, on the 11th instant, from Fort Edward,
+and, as I wrote in great pain, I think it was scarce legible;--such, as
 it was, shall be glad to hear it reached you safe: in a few days after I
 dispatched it to you, my fever abated, and I was judged to be out of
 danger; for some time, however, it was apprehended I should lose my arm;
@@ -963,7 +994,7 @@ light infantry, and one of our columns, came up with the
 before-mentioned advanced guard of the enemy, who we also suppose to
 have lost themselves in their retreat, when a smart skirmish ensued, in
 which we were victors, though with some loss; trifling, however, in
-comparison to that which the army sustained by his Lordship’s fall, who
+comparison to that which the army sustained by his Lordship's fall, who
 was killed at the first charge, and is universally regretted both by
 officers and soldiers; the enemy suffered much in this encounter, being
 very roughly handled; and we made many men and several officers
@@ -979,57 +1010,57 @@ upon receiving intelligence, by their scouts of our approach, they
 destroyed the mill, and a bridge that lay across the river; the latter
 we soon replaced, and lay, upon our arms until the evening, when we were
 joined by the remainder of the army. I wish I could throw a veil over
-what is to follow; for I confess I am at a loss how to proceed:—our army
-was numerous, we were in good spirits, and, if I may give you my own
-private opinion, I believe we were one and all infatuated with a notion
-of carrying every obstacle, with so great a force we had, by a mere Coup
-de Musqueterie; to such chimerical and romantic ideas I entirely
-attribute our great disaster on the 8th, in which we were confirmed by
-the report of our chief engineer, who had reconnoitred the enemy’s
-works, and determined our fate, by declaring it as his opinion, that it
-was very practical to carry them by a general storm; accordingly, the
-army being formed, and every thing in readiness, we proceeded to the
-attack, which was as well conducted and supported as any bold
-undertaking ever was;—but alas! we soon found ourselves grossly
-deceived;—the intrenchments were different from what we had expected,
-and were made to believe, their breast-works were uncommonly high, and
-the ground in their front, for a great length of way, was covered with
-an Abatis de Bois, laid so close and thick, that their works were really
-rendered impregnable. The troops, by the cool and spirited example of
-the General, made many eager efforts to no purpose; for we were so
-intangled in the branches of the felled trees, that we could not
-possibly advance; the enemy were sensible of this, and remained steady
-at their breast-works, repeating their fire, which, from their numbers,
-was very weighty, and, from a conviction of their own safety, was served
-with great composure. Such was our situation for almost five hours,
-when, at length, finding our loss considerable, and no prospect of
-carrying our point, we were ordered to desist, and retire;—the army
-retreated to the ground we had occupied on the preceding night at the
-sawmill, and the wounded were sent off to the bateaux without delay,
-where the remains of our shattered forces joined us early on the ninth,
-and the whole re-embarked, and continued our retreat to Lake George;
-there we arrived the same evening and encamped. That place is computed
-to be about thirty miles from Ticonderoga (though I believe it is more)
-and fourteen from Fort Edward, whither, as also to this town (from which
-I now write) all the wounded were sent the next day. Our loss is indeed
-very considerable, as you will see by the inclosed return. The valiant
-Colonels Donaldson, Bever, and Major Proby, with many other of our
-friends, I am heartily sorry to acquaint you, are among the slain. So
-that what we find so feelingly expressed by the poet is here fatally
-verified,
+what is to follow; for I confess I am at a loss how to proceed:--our
+army was numerous, we were in good spirits, and, if I may give you my
+own private opinion, I believe we were one and all infatuated with a
+notion of carrying every obstacle, with so great a force we had, by a
+mere Coup de Musqueterie; to such chimerical and romantic ideas I
+entirely attribute our great disaster on the 8th, in which we were
+confirmed by the report of our chief engineer, who had reconnoitred the
+enemy's works, and determined our fate, by declaring it as his opinion,
+that it was very practical to carry them by a general storm;
+accordingly, the army being formed, and every thing in readiness, we
+proceeded to the attack, which was as well conducted and supported as
+any bold undertaking ever was;--but alas! we soon found ourselves
+grossly deceived;--the intrenchments were different from what we had
+expected, and were made to believe, their breast-works were uncommonly
+high, and the ground in their front, for a great length of way, was
+covered with an Abatis de Bois, laid so close and thick, that their
+works were really rendered impregnable. The troops, by the cool and
+spirited example of the General, made many eager efforts to no purpose;
+for we were so intangled in the branches of the felled trees, that we
+could not possibly advance; the enemy were sensible of this, and
+remained steady at their breast-works, repeating their fire, which, from
+their numbers, was very weighty, and, from a conviction of their own
+safety, was served with great composure. Such was our situation for
+almost five hours, when, at length, finding our loss considerable, and
+no prospect of carrying our point, we were ordered to desist, and
+retire;--the army retreated to the ground we had occupied on the
+preceding night at the sawmill, and the wounded were sent off to the
+bateaux without delay, where the remains of our shattered forces joined
+us early on the ninth, and the whole re-embarked, and continued our
+retreat to Lake George; there we arrived the same evening and encamped.
+That place is computed to be about thirty miles from Ticonderoga (though
+I believe it is more) and fourteen from Fort Edward, whither, as also to
+this town (from which I now write) all the wounded were sent the next
+day. Our loss is indeed very considerable, as you will see by the
+inclosed return. The valiant Colonels Donaldson, Bever, and Major Proby,
+with many other of our friends, I am heartily sorry to acquaint you, are
+among the slain. So that what we find so feelingly expressed by the poet
+is here fatally verified,
 
-  ‘For, How many mothers shall bewail their sons!
-    How many widows weep their husbands slain!’
+  'For, How many mothers shall bewail their sons!
+    How many widows weep their husbands slain!'
 
     [Illustration: Replica of the Cross Erected by General Montcalm,
     Commemorating the French Victory at Carillon]
 
 What loss the enemy sustained, or if any, it is impossible for us to be
 able to give the least account of; they did not attempt to pursue us in
-our retreat.—Let me hear from you upon receipt of this packet, and, if
+our retreat.--Let me hear from you upon receipt of this packet, and, if
 anything should occur in the farther course of this campaign, you shall
 hear from me again; but, I presume the French general will cut out such
-work for us, as will oblige our forces to act on the defensive.’”
+work for us, as will oblige our forces to act on the defensive.'"
 
 In August of this year Israel Putnam, while scouting near Fort Miller,
 was captured by some French and Indians, and, after being stripped of
@@ -1044,7 +1075,7 @@ exchanged, he lived to have a distinguished career in the Revolution.
     the Battle of July 8, 1758
     (Painting by Harry A. Ogden in the Fort Ticonderoga Museum)]
 
-    [Illustration: Major Robert Rogers’ Battle on Snowshoes in 1757
+    [Illustration: Major Robert Rogers' Battle on Snowshoes in 1757
     (From a Painting in the Glens Falls Insurance Co. Building)]
 
 
@@ -1060,7 +1091,7 @@ Abercromby, again advanced down Lake George to attack the Fort. On July
 he left Fort William Henry. In the meantime, the French garrison at
 Ticonderoga had been much reduced. Montcalm had gone to the defense of
 Quebec, leaving General Bourlamaque, who had been slightly wounded the
-year before, in command. Amherst’s army followed Abercromby’s route but
+year before, in command. Amherst's army followed Abercromby's route but
 instead of attacking proceeded to invest the Fort. Bourlamaque soon
 realized that he would be starved out and captured within a reasonable
 time, so, after a few days defense decided to evacuate. He left Captain
@@ -1085,19 +1116,19 @@ Museum collection. It follows herewith:
                                     Camp at Ticonderoga or Fort Carillon
                                                            Aug. 4, 1759.
 
-“Very Rev’d & Hon’d Sr.
+"Very Rev'd & Hon'd Sr.
 
-“Tis an old saying better late than never, therefore I presume (tho too
+"Tis an old saying better late than never, therefore I presume (tho too
 unseasonably) to wait upon you with a line, to tell you what God has
-done for us the army and his Chh [Church] and people in gen’l. On ye 21
+done for us the army and his Chh [Church] and people in gen'l. On ye 21
 of July ye army imbarked for this place, which consisted of 11756, the
-Invincible rydau sail’d in ye rear of grenadiers, light infantry and
+Invincible rydau sail'd in ye rear of grenadiers, light infantry and
 rangers, and in ye front of remaining army and ye sloop Halifax brought
 up ye rear of ye whole. The fleet reached Sabbath Day Point by day
 light, then the Invincible came to anchor, and ye whole Fleet lay upon
 ye ores, till break of day, when ye signal was given for sailing, and
 the whole landed without opposition, between ye hours of nine and
-eleven, 22d, the light infantry, rangers, and grenad’rs marched
+eleven, 22d, the light infantry, rangers, and grenad'rs marched
 immediately for the mill, where they found the enemy posted, in three
 advantageous places, but as soon as they saw the dexterity and
 resolution of our advancing parties, they fled and left ye grounds in
@@ -1108,7 +1139,7 @@ wound or two from them. The whole army marched forward, beside what was
 necessary to guard the landing place, with ye vessels and stores, some
 were imployed in persuing the enemy, some in clearing the roads, and ye
 water course from ye mill, others in taking possession of all ye most
-advantageous ground near ye Fort—the whole was performed with ye
+advantageous ground near ye Fort--the whole was performed with ye
 greatest regularity, ye least noise, a noble calmness and intrepid
 resolution, ye whole army seemed to pertake of ye very soul of ye
 commander. As ye enemy had not force nor courage to man ye lines yt
@@ -1120,7 +1151,7 @@ disposition, they raised a smart canonade upon us, but without effect,
 those that were intrenching, between ye Breastwork and ye Fort had by
 this time covered ymselves, and ye breastwork was a defence to ye camp,
 they continued to canonade and to throw yr shells, and we continued to
-intrench, advancing nearer and nearer, the Gen’l ordered yt no fire shd
+intrench, advancing nearer and nearer, the Gen'l ordered yt no fire shd
 be returned upon ye enemy (except in case of necessary defence) till he
 had all ye batteries ready to open at once, and as ye trenches were long
 ye digging bad, the whole could not be compleated till Thursday night ye
@@ -1132,19 +1163,19 @@ ye lake and some by water with all yt they could carry (which could be
 but a little), nineteen of those that went off by land got lost and came
 into our camp next morning, some of ye light infantry yt were posted on
 ye left by ye lake side hearing ye enemies boats fire several cannon
-loaded with grape in among ym which greatly dismad and destresd them,—we
-found 3 of ye boats adrift loaded with powder and other stores, others
-broke and sunk.
+loaded with grape in among ym which greatly dismad and destresd
+them,--we found 3 of ye boats adrift loaded with powder and other
+stores, others broke and sunk.
 
     [Illustration: General Amherst and the Burning Fort
     From a painting in the Museum Collection]
 
-“Six o’Clock 27. the French flagg was struck and ye English hoisted on
+"Six o'Clock 27. the French flagg was struck and ye English hoisted on
 ye same staff, but as ye Fort was in flames and cannon loaded and a
 large number of small armes, which kept a continual fire as ye wood
-burnt, the Gen’l gave orders yt ye greatest caution shd usd in taking
-possession, About 8 o’Clock they began to attempt to extinguish ye fire,
-and to draw ye charges from those cannon yt ye fire had not reached,—We
+burnt, the Gen'l gave orders yt ye greatest caution shd usd in taking
+possession, About 8 o'Clock they began to attempt to extinguish ye fire,
+and to draw ye charges from those cannon yt ye fire had not reached,--We
 found 13 pieces of cannon mounted, 4 Mortars two 13 Inch, two 9. Other
 artillery is found since sunk in ye waters, the strength of ye Fort
 exceeds ye most sanguine imagination, nature and art are Joind to render
@@ -1153,17 +1184,17 @@ they might have held out a long siege. Our loss is very inconsiderable
 (except Col. Townsend) who was killed with a cannon ball on ye 25th
 besides him we have lost none of note, the whole according to ye returns
 yt have been made is 96 killd and wounded, 20 only of which was kild on
-ye spot—We have had one killed as he stood centry and one Stockbridge
+ye spot--We have had one killed as he stood centry and one Stockbridge
 Indian, an Ensign, which is all ye loss that we have sustained by ye
-savages since the Fort was abandoned. It came out in Gen’l Orders that
+savages since the Fort was abandoned. It came out in Gen'l Orders that
 publick thanks shd be given at ye head of every core for ye conquest
-obtained, ever since we got possession ye whole army has been imploy’d
+obtained, ever since we got possession ye whole army has been imploy'd
 in extinguishing ye fire of ye Fort, repairing ye breeches made by ye
 explosion, gitting over ye beteaus and boats, provisions, and artilery
 stores, in rebuilding ye mills and in erecting two more rydaus all whch
 are near accomplished. August 3. A scout in from Crown-Point and brot
 certain intelligence that the enemy have destroyed and abandoned that
-also, upon which ye Gen’l sent a party immediately to take possession,
+also, upon which ye Gen'l sent a party immediately to take possession,
 and this morning saild himself with his artilery and ye main body of ye
 army leaving only such numbers as are necessary to defend ye several
 posts which he has established and to carry on the works at ye mills and
@@ -1174,31 +1205,31 @@ one 18 in each of yr bowes one flat boat and one six pounder and four
 bay-boats with swivals and a brig in great forwardness, all which we
 hope will be sufficient against the 3 schooners which ye enemy having
 cruzing in ye Lake, so yet our success is not only great but ye prospect
-still clear yt we shl by ye divine aide do ye business we came upon—The
+still clear yt we shl by ye divine aide do ye business we came upon--The
 health of ye army is very extraordinary in ye two battalions where I am
 concerned, yr has died but two with sickness and one kild by ye enemy,
 (ye sentery above mentioned) when I visited the fort which was about 9
-o’Clock Friday morning 27th I found many monuments of superstition which
-would furnish a curious mind with aboundant matter for speculation—one
+o'Clock Friday morning 27th I found many monuments of superstition which
+would furnish a curious mind with aboundant matter for speculation--one
 thing I cant omit, near ye breast-work where so many spilt yr blood last
 year, was a cross erected of 30 feet high, painted red with this
-inscription in lead on yt side next to ye breastwork ‘Sone Principes
-eorum Sicut oneb et heb et Zebee et ...’ and under this at ye foot of ye
-cross was an open grave—on ye opposite side of ye cross next to ye Fort
-was this inscribed in lead viz ‘Hoc Signum Vincit’—These are the most
+inscription in lead on yt side next to ye breastwork 'Sone Principes
+eorum Sicut oneb et heb et Zebee et ...' and under this at ye foot of ye
+cross was an open grave--on ye opposite side of ye cross next to ye Fort
+was this inscribed in lead viz 'Hoc Signum Vincit'--These are the most
 remarkable, yt has feel within my notice since I wrote last. I hope you
 will pardon my prolixity and overlook ye many imperfections of my
 relation, tis a good story tho it is not well told, if you please let
 Mr. Breek see the contents as I have not time to write particularly to
 him nor anything new besides to communicate.
 
-“Please to give all proper salutations to all friends on ye river and
-give me leave to subscribe your most obd’t and affectionate son
+"Please to give all proper salutations to all friends on ye river and
+give me leave to subscribe your most obd't and affectionate son
 
                                                              Eli Forbush
 
-“Last night I was hon’d with the reception of yr fav’r of ye 16 ulto for
-which I thank you.”
+"Last night I was hon'd with the reception of yr fav'r of ye 16 ulto for
+which I thank you."
 
 To the Reverend Mr. Steven Williams
                             in Springfield, Lon Meadow Precinct. [Mass.]
@@ -1219,9 +1250,9 @@ four years, and in 1765 Major Thomas James went down from Ticonderoga to
 New York to aid in enforcing the Stamp Act. On February 15th, 1767,
 Lieutenant-Governor Carleton wrote from Montreal to Major General Gage:
 
-“The forts of Crown Point and Ticonderoga are in a very declining
+"The forts of Crown Point and Ticonderoga are in a very declining
 condition ... should you approve of keeping up these posts, it will be
-best to repair them as soon as possible.”
+best to repair them as soon as possible."
 
 Crown Point caught on fire in April, 1773, and a large part of the
 barracks was destroyed by an explosion in the magazine. Detachments of
@@ -1255,7 +1286,7 @@ troops known as the Green Mountain Boys, also conceived the idea. Allen
 and Arnold met in Castleton, Vermont, and both claimed the command. The
 Green Mountain Boys absolutely refused to serve under anyone but Allen.
 Eventually a compromise was made and a joint command agreed on. A
-rendezvous was agreed on in Hand’s Cove on the east side of Lake
+rendezvous was agreed on in Hand's Cove on the east side of Lake
 Champlain about two miles north of the Fort and on the night of May 9th
 about 350 men had gathered. There was a scarcity of boats, however, and
 the few obtainable were rowed back and forth all night, landing just
@@ -1265,13 +1296,13 @@ daring to postpone the attack, Allen proceeded by the wood road then
 running across the swamp which formerly existed in what is now the North
 Field. His own account of the capture is as follows:
 
-“I landed eighty-three men near the garrison, and sent the boats back
+"I landed eighty-three men near the garrison, and sent the boats back
 for the rear guard commanded by Col. Seth Warner; but the day began to
 dawn, and I found myself under a necessity to attack the fort, before
 the rear could cross the lake; and, as it was viewed hazardous, I
 harangued the officers and soldiers in the manner following:
 
-‘Friends and fellow soldiers, you have, for a number of years past, been
+'Friends and fellow soldiers, you have, for a number of years past, been
 a scourge and terror to arbitrary power. Your valour has been famed
 abroad, and acknowledged, as appears by the advice and orders to me
 (from the general assembly of Connecticut) to surprise and take the
@@ -1281,9 +1312,9 @@ either quit our pretensions to valour, or possess ourselves of this
 fortress in a few minutes; and, in as much as it is a desperate attempt,
 (which none but the bravest of men dare undertake) I do not urge it on
 any contrary to his will. You that will undertake voluntarily poise your
-firelocks.’
+firelocks.'
 
-“The men being (at this time) drawn up in three ranks, each poised his
+"The men being (at this time) drawn up in three ranks, each poised his
 firelock. I ordered them to face to the right; and, at the head of the
 centre-file, marched them immediately to the wicket-gate aforesaid,
 where I found a centry posted, who instantly snapped his fusee at me; I
@@ -1304,8 +1335,8 @@ barrack, to which I immediately repaired, and ordered the commander
 (Capt. Delaplace) to come forth instantly, or I would sacrifice the
 whole garrison; at which the capt. came immediately to the door with his
 breeches in his hand, when I ordered him to deliver to me the fort
-instantly, who asked me by what authority I demanded it; I answered, ‘In
-the name of the great Jehovah, and the Continental Congress.’ (The
+instantly, who asked me by what authority I demanded it; I answered, 'In
+the name of the great Jehovah, and the Continental Congress.' (The
 authority of the Congress being very little known at that time) he began
 to speak again; but I interrupted him, and with my drawn sword over his
 head, again demanded an immediate surrender of the garrison; to which he
@@ -1320,8 +1351,8 @@ swivels. This surprise was carried into execution in the gray of the
 morning of the 10th day of May, 1775. The sun seemed to rise that
 morning with a superior lustre; and Ticonderoga and its dependencies
 smiled on its conquerors, who tossed about the flowing bowl, and wished
-success to Congress, and liberty and freedom of America.” The flowing
-bowl evidently had its effect as Allen’s first account of the capture of
+success to Congress, and liberty and freedom of America." The flowing
+bowl evidently had its effect as Allen's first account of the capture of
 the Fort reads as follows:
 
     [Illustration: Catamount Tavern in Bennington Where Ethan Allen And
@@ -1329,13 +1360,13 @@ the Fort reads as follows:
 
 To the Massachusetts Council,
 
-“Gentlemen: I have to inform you, with pleasure unfelt before, that on
+"Gentlemen: I have to inform you, with pleasure unfelt before, that on
 the break of day of the tenth of May, 1775, by the order of the General
 Assembly of the Colony of Connecticut, I took the fortress of
 Ticonderoga by storm. The soldiery was composed of about one hundred
 Green Mountain Boys and nearly fifty veteran soldiers from the Province
 of Massachusetts Bay. The latter was under command of Colonel James
-Easton, who behaved with great zeal and fortitude,—not only in council;
+Easton, who behaved with great zeal and fortitude,--not only in council;
 but in the assault. The soldiery behaved with such resistless fury, that
 they so terrified the Kings troops, that they durst not fire on their
 assailants, and our soldiery was agreeably disappointed. The soldiery
@@ -1350,13 +1381,13 @@ the Government of Connecticut in establishing a garrison in the reduced
 premises. Colonel Easton will inform you at large. From, gentlemen, your
 most obedient, humble servant.
 
-                                                            Ethan Allen”
+                                                            Ethan Allen"
 
 On the 12th, however, he sent a more temperate account to the Governor
 of Connecticut, the original manuscript of which is now in the Fort
 Library and reads as follows:
 
-“Hon’ble Sir: I make you a present of a Major, a Captain, and two
+"Hon'ble Sir: I make you a present of a Major, a Captain, and two
 Lieutenants in the regular Establishment of George the Third. I hope
 they may serve as ransoms for some of our friends at Boston, and
 particularly for Captain Brown of Rhode Island. A party of men, under
@@ -1369,30 +1400,30 @@ Lake Champlain, and is about twice as big as the schooner. I hope in a
 short time to be authorized to acquaint your Honour, that Lake
 Champlain, and the fortifications thereon, are subject to the Colonies.
 
-“The enterprise has been approbated by the officers and soldiery of the
+"The enterprise has been approbated by the officers and soldiery of the
 Green Mountains boys, nor do I hesitate as to the success. I expect
-lives must be lost in the attack, as the commander of George’s sloop is
+lives must be lost in the attack, as the commander of George's sloop is
 a man of courage, etc.
 
-“Messrs. Hickock, Halsey and Nichols have the charge of conducting the
+"Messrs. Hickock, Halsey and Nichols have the charge of conducting the
 officers to Hartford. These gentlemen have been very assiduous and
 active in the late expedition.
 
-“I depend upon your Honour’s aid and assistance in a situation so
+"I depend upon your Honour's aid and assistance in a situation so
 contiguous to Canada.
 
-“I subscribe myself, your Honour’s ever faithful, Most obedient and
+"I subscribe myself, your Honour's ever faithful, Most obedient and
 humble servant.
 
                                                              Ethan Allen
 
-“At present commander at Ticonderoga. To the Hon’ble Johnathan Trumbull,
-esq., Capt. General and Governor of the Colony of Connecticut.”
+"At present commander at Ticonderoga. To the Hon'ble Johnathan Trumbull,
+esq., Capt. General and Governor of the Colony of Connecticut."
 
     [Illustration: Ethan Allen and Captain Delaplace at The Capture of
     Fort Ticonderoga]
 
-It is interesting to note that in neither of Allen’s reports does he
+It is interesting to note that in neither of Allen's reports does he
 mention Arnold, who had a joint command with him. Hard feeling between
 the two commanders had already developed. Arnold was a commissioned
 officer in the Connecticut Militia and Allen, an amateur. Professional
@@ -1408,7 +1439,7 @@ the regular Establishment of George the Third I hope they may serve as
 ransoms for some of our Friends at Boston and particularly for Capt
 Brown of Rhodiseland a Party of men under the Command of Cap^t Herich
 has Took Posession Scenesborough Imprisoned Major Sceen^e and Seized a
-Schooner of his, I Expect in ten days Time to have it rigged and man’d
+Schooner of his, I Expect in ten days Time to have it rigged and man'd
 and armed with 6 or 8 Pieces of Canon which with the Boat in our
 Possession I Purpose to make an attack on the armed Sloop of George the
 Third which is Now Cruising on Lake Champlain and is about Twice as bigg
@@ -1417,17 +1448,17 @@ your Hoour that Lake Champlain ^^& the fortifications thereon are
 subjected to the Colonies The Enterprise has been approbated by the
 Officers and Soldiary of the Green Mountain Boys Nor do I hesitate as to
 the Success I Expect Lives must be Lost in the attack as the Comander of
-George’s Sloop is a man of Courage &c.
+George's Sloop is a man of Courage &c.
 
     [Illustration: Letter, continued]
 
 I Conclude Cap^t Warner is by this time in Possession of Crown Point the
 Ordnance Stores &c I Conclude Governor Carlton will Exert himself to
-oppose us & Command the Lake &c—Messers Hickock Halsey & Nichols have
+oppose us & Command the Lake &c--Messers Hickock Halsey & Nichols have
 the Charge of Conducting the ^Officers{illegible} to Harford These
 Gentlemen have been Very Assiduous and active in the Late Expedition I
 depend upon Your Honours Aid and Assistance in a Situation so Contiguous
-toCanandaigaCanada—I Subscribe my Self Your Honours Ever Faithfull most
+toCanandaigaCanada--I Subscribe my Self Your Honours Ever Faithfull most
 Obedient and Humble Servant
 
                                                             Ethan Allen,
@@ -1438,98 +1469,98 @@ at Present Commander of Ticonderoga
 THE BRITISH SIDE OF THE CAPTURE
 
 A few years ago Mr. Allen French discovered the manuscript of Lieutenant
-Feltham’s report, which reads as follows:
+Feltham's report, which reads as follows:
 
                                                New York, June 11th 1775.
 
-“Sir
+"Sir
 
-“Capt. Delaplace of the 26th regt has given me directions to lay before
+"Capt. Delaplace of the 26th regt has given me directions to lay before
 you in as plain a narrative as I can the manner of the surprizal of the
 fort of Ticonderoga on 10th May with all the circumstances after it that
 I thought might be of any service in giving you Exy any light into the
 affair.
 
-    [Illustration: “Allen Needs You at Ti”
+    [Illustration: "Allen Needs You at Ti"
     (Courtesy National Life Insurance Company of Vermont)]
 
-“Capt. Delaplace having in the course of the winter applied to Gen.
+"Capt. Delaplace having in the course of the winter applied to Gen.
 Carleton for a reinforcement, as he had reason to suspect some attack
-from some circumstances that happend’d in his neighborhood, Gen Carleton
+from some circumstances that happend'd in his neighborhood, Gen Carleton
 was pleased to order a detachment of a subaltern and 20 men to be sent
 in two or three separate parties the first party of which was sent as a
 crew along with Major Dunbar who left Canada about the 12th April, I
 being the first subaltern on command was ordered down with 10 men in a
 few days more, to give up to Capt Delaplace with whom Lt Wadman was to
-remain, having receiv’d orders from the regt some time before to join
+remain, having receiv'd orders from the regt some time before to join
 there. as he was not arrived when I came I had orders to wait until he
 did. I was 12 days there before he came which was about an hour after
 the fort was surprised. I had not lain in the fort on my arrival having
 left the only tolerable rooms there for Mr. Wadman if he arrived with
 his family, but being unwell, had lain in the fort for two or three
 nights preceding the 10th May, on which morning about half an hour after
-three in my sleep I was awaken’d by numbers of shreiks, & the words no
-quarter, no quarter from a number of arm’d rabble I jump’d up about
+three in my sleep I was awaken'd by numbers of shreiks, & the words no
+quarter, no quarter from a number of arm'd rabble I jump'd up about
 which time I heard the noise continue in the area of the fort I ran
-undress’d to knock at Capt. Delaplaces door & to receive his orders or
+undress'd to knock at Capt. Delaplaces door & to receive his orders or
 wake him, the door was fast the room I lay in being close to Capt
-Delaplace I stept back, put on my coat & waist coat & return’d to his
+Delaplace I stept back, put on my coat & waist coat & return'd to his
 room, there being no possibility of getting to the men as there were
 numbers of the rioters on the bastions of the wing of the fort on which
 the door of my room and back door of Capt Delaplaces room led, with
 great difficulty, I got into his room, being pursued, from which there
-was a door down by stairs in to the area of the fort, I ask’d Capt
-Delaplace who was by now just up what I should do, & offer’d to force my
+was a door down by stairs in to the area of the fort, I ask'd Capt
+Delaplace who was by now just up what I should do, & offer'd to force my
 way if possible to our men, on opening this door the bottom of the
 stairs was filld with the rioters & many were forcing their way up,
 knowing the Commg Officer lived there, as they had broke open the lower
 rooms where the officers live in winter, and could not find them there,
-from the top of the stairs I endeavour’d to make them hear me, but it
+from the top of the stairs I endeavour'd to make them hear me, but it
 was impossible, on making a signal not to come up the stairs, they
-stop’d, & proclaimd silence among themselves, I then address’d them, but
-in a stile not agreeable to them I ask’d them a number of questions,
+stop'd, & proclaimd silence among themselves, I then address'd them, but
+in a stile not agreeable to them I ask'd them a number of questions,
 expecting to amuse them till our people fired which I must certainly own
 I thought would have been the case, after asking them the most material
 questions, I could think viz by what authority they entered his
 majesties fort who were the leaders and what their intent &c &c I was
 informd by one Ethan Allen and one Benedict Arnold that they had a joint
 command, Arnold informing me he came from instructions recd from the
-congress at Cambridge which he afterwards shew’d me. Mr. Allen told me
+congress at Cambridge which he afterwards shew'd me. Mr. Allen told me
 his orders were from the province of Connecticut & that he must have
 immediate possession of the fort and all the effects of George the third
 (those were his words) Mr. Allen insisting on this with a drawn sword
 over my head & numbers of his followers firelocks presented at me
 alledging I was commanding officer & to give up the fort, and if it was
-not comply’d with, or that there was a single gun fired in the fort
+not comply'd with, or that there was a single gun fired in the fort
 neither man woman or child should be left alive in the fort. Mr. Arnold
-begg’d it in a genteel manner but without success, it was owing to him
+begg'd it in a genteel manner but without success, it was owing to him
 they were prevented getting into Capt Delaplaces room, after they found
-I did not command. Capt. Delaplace being now dress’d came out, when
+I did not command. Capt. Delaplace being now dress'd came out, when
 after talking to him some time, they put me back into the room they
-placed two sentry’s on me and took Capt Delaplace down stairs they also
+placed two sentry's on me and took Capt Delaplace down stairs they also
 placed sentrys at the back door, from the beginning of the noise till
-half an hour after this I never saw a Soldier, tho’ I heard a great
+half an hour after this I never saw a Soldier, tho' I heard a great
 noise in their rooms and can not account otherwise than that they must
-have been seiz’d in their beds before I got on the stairs, or at the
+have been seiz'd in their beds before I got on the stairs, or at the
 first coming in, which must be the case as Allen wounded one of the
 guard on his struggling with him in the guard room immediately after his
 entrance into the fort. When I did see our men they were drawn up
 without arms, which were all put into one room over which they placed
 sentrys and allotted one to each soldier their strength at first coming
-that is the number they had ferry’d over in the night amounted to about
+that is the number they had ferry'd over in the night amounted to about
 90 but from their entrance & shouting they were constantly landing men
-till about 10 o’clock when I suppose there were about 300, & by the next
+till about 10 o'clock when I suppose there were about 300, & by the next
 morning at least another 100 who I suppose were waiting the event & came
-now to join in the plunder which was most rigidly perform’d as to
+now to join in the plunder which was most rigidly perform'd as to
 liquor, provisions, &c whether belonging to his majesty or private
 property, about noon on the 10th May, our men were sent to the landing
-at L. George, & sent over next day, then march’d by Albany to Hartford
+at L. George, & sent over next day, then march'd by Albany to Hartford
 Connecticut where they arrived on the 22d they would not allow an
-Officer to go with them tho’ I requested it. They sent Capt Delaplace
+Officer to go with them tho' I requested it. They sent Capt Delaplace
 his Lady, family & Lt Wadman & myself by Skenesborough to Hartford where
-we arrived the 21st.”
+we arrived the 21st."
 
-Shortly after Allen’s capture of the Fort Congress decided to garrison
+Shortly after Allen's capture of the Fort Congress decided to garrison
 the place, and what was afterwards called the Northern Army was
 concentrated there. It consisted mostly of New York, New Jersey and
 Pennsylvania troops with the Pennsylvanians the best equipped and
@@ -1537,7 +1568,7 @@ organized. General Philip Schuyler of New York was in command through
 1775. The Fort was repaired and the old French Lines strengthened and a
 number of redoubts started.
 
-    [Illustration: Ethan Allen’s Blunderbuss in the Museum Collection]
+    [Illustration: Ethan Allen's Blunderbuss in the Museum Collection]
 
     [Illustration: Benedict Arnold]
 
@@ -1549,7 +1580,7 @@ number of redoubts started.
 
 
 A number of important things happened at Ticonderoga during the American
-occupation between Allen’s capture, May 10th, 1775, and St. Clair’s
+occupation between Allen's capture, May 10th, 1775, and St. Clair's
 evacuation before Burgoyne, July 6, 1777.
 
 An expedition for the invasion of Canada was planned. By the middle of
@@ -1598,7 +1629,7 @@ colonel.
 On the 16th of November General Washington sent the following
 instruction to Henry Knox, then a Colonel of Artillery:
 
-“You are immediately to examine into the state of the artillery of this
+"You are immediately to examine into the state of the artillery of this
 army, and take an account of the cannon, mortars, shells, lead and
 ammunition that are wanting. When you have done that you are to proceed
 in the most expeditious manner to New York, there to apply to the
@@ -1621,12 +1652,12 @@ you are to keep and render upon your return.
 
     [Illustration: General Knox]
 
-“Given under my hand at headquarters at Cambridge, this 16th day of
+"Given under my hand at headquarters at Cambridge, this 16th day of
 November, Annoque Domini 1775.
 
                                                           G. Washington.
 
-“(Endeavor to procure what flints you can)”
+"(Endeavor to procure what flints you can)"
 
 
 The Continental Army, approximately 16,000 men, was besieging Boston,
@@ -1641,7 +1672,7 @@ carrying-place and were loaded on the scows to take them to the head of
 Lake George. With the greatest difficulty he transported them over-land,
 having had made forty-two strong sleds and hired eighty-one yoke of
 oxen. Not until January 4th did the first brass 24 pounder reach Albany,
-and on the 24th of the same month with his “noble train of artillery,”
+and on the 24th of the same month with his "noble train of artillery,"
 he arrived at the camp in Cambridge. It was a great undertaking
 considering the roads and bridges of the period.
 
@@ -1649,7 +1680,7 @@ considering the roads and bridges of the period.
     Cambridge
     (Courtesy Joseph Dixon Crucible Co.)]
 
-  Fort Ticonderoga’s Immortal Guns go to General George Washington ...
+  Fort Ticonderoga's Immortal Guns go to General George Washington ...
   winter of 1776 ... over hundreds of miles of roadless, trackless,
   snowclad mountains and valleys, through thick forests, over
   ice-covered lakes and rivers ... on sledges hauled by oxen ... in
@@ -1661,21 +1692,21 @@ The guns removed from Ticonderoga by Knox consisted of:
 
                            MORTARS and COHORNS
                             Dim of bore.      Ft. &    Weight    Total
-                                             ins. of             w’ht.
+                                             ins. of             w'ht.
                                              length.
       Brass
 
     2  Cohorns                  5  - 7/10   1-4            150      300
-    4     do.                  4½           1-1            100      400
-    1  Mortar                  8½           2-0            300      300
-    1     do.                  7½           2-0            300      300
+    4     do.               4-1/2           1-1            100      400
+    1  Mortar               8-1/2           2-0            300      300
+    1     do.               7-1/2           2-0            300      300
     8
 
       Iron
 
-    1     do.                  6½           1-10           600      600
+    1     do.               6-1/2           1-10           600      600
     1     do.                  10           3-6           1800     1800
-    1     do.                 10¼           3-6           1800     1800
+    1     do.              10-1/4           3-6           1800     1800
     3     do.                  13           3             2300     6900
                                             (average)
     6
@@ -1684,7 +1715,7 @@ The guns removed from Ticonderoga by Knox consisted of:
       Iron
 
     1                           8           3-4        15.2.15  15.2.15
-    1                          8¼           3-4        15.2.15  15.2.15
+    1                       8-1/4           3-4        15.2.15  15.2.15
     2      (16)
 
                                  CANNON
@@ -1692,17 +1723,17 @@ The guns removed from Ticonderoga by Knox consisted of:
 
     8         3  pounders       3  - 1/20   3-6            350    2,800
     3         6     do.         3  - 7/10   4-6            600    1,800
-    1        18     do.        5½           8-3           2000    2,000
+    1        18     do.     5-1/2           8-3           2000    2,000
     1        24     do.         5  -11/12   5-6        16.3.18    1,800
 
       Iron
 
     6         6     do.         3  - 7/10   9-7           2500   15,000
     4         9     do.         4  - 4/10   8-4           2500   10,000
-   10        12     do.        4¾           9             2800   28,000
-    7        18     do.        5½           9             4000   28,000
+   10        12     do.     4-3/4           9             2800   28,000
+    7        18     do.     5-1/2           9             4000   28,000
           dble fortif.
-    3        18     do.        5½           11            5000   15,000
+    3        18     do.     5-1/2           11            5000   15,000
   To. can., 43                                    Total Weight, 119,900
   Mortars, 16
 
@@ -1732,16 +1763,16 @@ by the end of August the fleet was ready. It consisted of:
   Galley CONGRESS            3    45  Capt. Arnold
   Galley CUTTER LEE          6    50  Davis
   Gondola BOSTON             3    45  Sumner
-     ”    PROVIDENCE         3    45  Simmons
-     ”    NEW HAVEN          3    45  Mansfield
-     ”    SPITFIRE           3    45  Ulmer or Ustens
-     ”    PHILADELPHIA       3    45  Rice
-     ”    JERSEY             3    45  Grimes
-     ”    CONNECTICUT        3    45  Grant
-     ”    NEW YORK           3    45  Lee
+     "    PROVIDENCE         3    45  Simmons
+     "    NEW HAVEN          3    45  Mansfield
+     "    SPITFIRE           3    45  Ulmer or Ustens
+     "    PHILADELPHIA       3    45  Rice
+     "    JERSEY             3    45  Grimes
+     "    CONNECTICUT        3    45  Grant
+     "    NEW YORK           3    45  Lee
 
     [Illustration: The Attack and Defeat of the American Fleet under
-    Benedict Arnold, by King’s Fleet Commanded by Captain John Pringle,
+    Benedict Arnold, by King's Fleet Commanded by Captain John Pringle,
     upon Lake Champlain, the 11th of October, 1776.]
 
 The British, in the meantime, had also been building a fleet. Several
@@ -1758,15 +1789,15 @@ The British fleet in the battle consisted of:
 
   Ship INFLEXIBLE                    16 Guns  Lt. Schank
   Schooner MARIA                     14 Guns  Lt. Starke
-     (Pringle’s Flagship)
+     (Pringle's Flagship)
   Schooner CARLETON                  12 Guns  Lt. Dacres
   Radeau THUNDERER                   14 Guns  Lt. Scott
   Gondola LOYAL CONVERT               7 Guns  Lt. Longcroft
   Twenty Gun or Artillery Boats with one gun each.
-  Four Long Boats—one field piece or howitzer each.
+  Four Long Boats--one field piece or howitzer each.
 
-But three of the American Fleet escaped, the “Revenge,” “Trumbull” and
-“Enterprise.”
+But three of the American Fleet escaped, the "Revenge," "Trumbull" and
+"Enterprise."
 
     [Illustration: General Schuyler]
 
@@ -1812,7 +1843,7 @@ Defiance which commanded the Fort, but it was never done. On July 5th
 the British succeeded in drawing a battery of guns to the top and opened
 up on the Fort. General St. Clair decided to retreat by way of the
 bridge and Mount Independence, the only road open. The retreat was well
-conceived, but someone set fire to General de Fermoy’s house and the
+conceived, but someone set fire to General de Fermoy's house and the
 British outposts discovered the American army retreating. A rear guard
 had been left at the Mount Independence end of the bridge, but
 unfortunately, they found a cask of wine and when the British succeeded
@@ -1839,7 +1870,7 @@ the only thing he could have done under the circumstances. In the
 meantime the army from Ticonderoga formed the nucleus that eventually,
 having received an enormous number of recruits from New York, Vermont
 and New Hampshire, forced the capitulation of Burgoyne and the surrender
-of his whole army at Saratoga late in the autumn. It was Burgoyne’s
+of his whole army at Saratoga late in the autumn. It was Burgoyne's
 bombastic proclamation to the settlers to be loyal to the King, or he
 would unloose his Indians, coupled with the unfortunate murder of Jane
 McCrea by some of his Indians, which aroused the countryside.
@@ -1856,7 +1887,7 @@ of Lake George and his own account reads as follows:
 
 Colonel Brown to General Lincoln:
 
-  “North end of Lake George landing.
+  "North end of Lake George landing.
   thursday Sept. 20 1777
 
 Sir; with great fatigue after marching all last night I arrived at this
@@ -1866,17 +1897,17 @@ place. I then without any loss of time detached a considerable part of
 my men to the mills, where a greater number of the enemy were posted,
 who also were soon made prisoners, a small number of them having taken
 possession of a blockhouse in that vicinity were with more difficulty
-bro’t to submission; but at a sight of a cannon they surrendered. During
+bro't to submission; but at a sight of a cannon they surrendered. During
 this season of success, Mount Defiance also fell into our hands. I have
 taken possession of the old French lines at Ticonderoga, and have sent a
 flag demanding the surrender of Ty and of mount independence in strong
-and peremptory terms. I have had as yet no information of Col. Johnson’s
+and peremptory terms. I have had as yet no information of Col. Johnson's
 attack on the mount. My loss of men in these several actions are not
-more than 3 or 4 killed and 5 wounded, the enemy’s loss is less. I find
+more than 3 or 4 killed and 5 wounded, the enemy's loss is less. I find
 myself in possession of 293 prisoners, viz, 2 captains, 9 subs, 2
 commisaries, non Commissioned officers and privates, 143 British, 119
 Canadians, 18 artificers, and retook more than 100 of our men, total
-293, exclusive of the prisoners retaken—The watercraft I have taken is
+293, exclusive of the prisoners retaken--The watercraft I have taken is
 150 bateaus below the falls on Lake Champlain 50 above the falls
 including 17 gunboats and one armed sloop, arms equal to the number of
 prisoners. Some ammunition and many other things which I cannot now
@@ -1884,33 +1915,33 @@ ascertain. I must not forget to mention a few cannon which may be of
 great service to us. Tho my success has hitherto answered most sanguine
 expectations, I cannot promise myself great things, the events of war
 being so dubious in their nature, but shall do my best to distress the
-enemy all in my power,—having regard to my retreat—There is but a small
-quantity of provisions at this place which I think will necessitate my
-retreat in case we do not carry Ty and independence—I hope you will use
-your utmost endeavor to give me assistance should I need in crossing the
-lake &c—The enemy has but a very small force at Fort George. Their boats
-are on an island about 14 miles from this guarded by six companies,
-having artillery—I have much fear with respect to the prisoners, being
-obliged to send them under a small guard—I am well informed that
-considerable reinforcements is hourly expected at the lake under command
-of Sir John Johnson—This minute received General Powel’s answer to my
-demand in these words, ‘The garrison intrusted to my charge I shall
-defend to the last.’
+enemy all in my power,--having regard to my retreat--There is but a
+small quantity of provisions at this place which I think will
+necessitate my retreat in case we do not carry Ty and independence--I
+hope you will use your utmost endeavor to give me assistance should I
+need in crossing the lake &c--The enemy has but a very small force at
+Fort George. Their boats are on an island about 14 miles from this
+guarded by six companies, having artillery--I have much fear with
+respect to the prisoners, being obliged to send them under a small
+guard--I am well informed that considerable reinforcements is hourly
+expected at the lake under command of Sir John Johnson--This minute
+received General Powel's answer to my demand in these words, 'The
+garrison intrusted to my charge I shall defend to the last.'
 
     [Illustration: Surrender of Burgoyne. (From a painting in the
     Museum.)]
 
-“Indeed I have little hopes of putting him to the necessity of giving it
+"Indeed I have little hopes of putting him to the necessity of giving it
 up unless by the force under Colonel Johnson.
 
-  I am &c, John Brown.”
+  I am &c, John Brown."
 
 Brown, running short of provisions for his own men and his numerous
 prisoners, retreated up Lake George and made an unsuccessful attack on
 Diamond Island.
 
 Sir John Johnson, son of Sir William Johnson, of Johnson Hall, arrived
-at Ticonderoga shortly before Burgoyne’s surrender at Saratoga. Numerous
+at Ticonderoga shortly before Burgoyne's surrender at Saratoga. Numerous
 deserters from Saratoga informed Powell of the situation there and he
 immediately made preparations to retreat to Canada. He burned the houses
 and barracks at Ticonderoga and Independence and made good his escape.
@@ -1974,7 +2005,7 @@ house there, if ever able to do so.
 Returning to New York he organized the firm of Pells and Company,
 importers of mahogany and marble. This firm flourished for a hundred
 years. Mr. Pell leased the property from Columbia and Union Colleges and
-shortly thereafter built a house which he called “Beaumont.” The house
+shortly thereafter built a house which he called "Beaumont." The house
 was situated below the Fort between the garden laid out by the French
 officers in 1756 and the shores of Lake Champlain. Mr. Pell was much
 interested in horticulture and he restored the old garden and imported
@@ -1985,28 +2016,28 @@ In 1820, he undertook to secure the deeds to the Garrison grounds and
 they were purchased by him from Union College on July 28, 1820 and from
 Columbia College on September 4, 1820.
 
-    [Illustration: The Pavilion—Built in 1826]
+    [Illustration: The Pavilion--Built in 1826]
 
 In addition to building a house and replanting the garden, he tried to
 stop the depredations which were occurring to the Fort. The two
 buildings that were standing after the Revolution, the South and West
 Barracks, were ruined by the early settlers, who removed everything
-movable—doors, windows, floor boards, etc., and eventually the very
+movable--doors, windows, floor boards, etc., and eventually the very
 beams themselves. Thousands of loads of stone were carted away for
 foundations. Some men had repaired the French lime kiln and were burning
 the walls of the Fort for lime. Mr. Pell had to buy up the numerous
-squatters’ rights but he eventually succeeded in stopping the
+squatters' rights but he eventually succeeded in stopping the
 destruction. He fenced in various earthworks and redoubts to prevent
 them being plowed under and did his best to preserve what was left. He
 was a man of vision. Had it not been for William Ferris Pell and those
 who came after him not a stone in Fort Ticonderoga would be in place
 today. Every one would have been carted away or destroyed.
 
-In 1825, “Beaumont” burned and in 1826, he built “The Pavilion” which is
-still standing and occupied by his descendants. “The Pavilion” was built
-on the edge of “Le Jardin du Roi,” a garden laid out by Captain de
+In 1825, "Beaumont" burned and in 1826, he built "The Pavilion" which is
+still standing and occupied by his descendants. "The Pavilion" was built
+on the edge of "Le Jardin du Roi," a garden laid out by Captain de
 Pontleroy, an engineer officer stationed here during the French
-occupation, and renamed “The King’s Garden” by the British, which name
+occupation, and renamed "The King's Garden" by the British, which name
 it has borne ever since. Mr. Pell spent his summers here. His oldest
 son, Archibald, had decided to be a gentleman farmer and took over the
 management of the place, but was killed by the explosion of a cannon he
@@ -2018,10 +2049,10 @@ will, but safe deposit boxes were unknown in that day and wills were
 kept in desks. Family tradition is that one of his sons found and read
 the will, was dissatisfied with his share, and destroyed it. At any
 rate, the property then passed in equal shares to his ten children. None
-of them could afford to keep up “The Pavilion,” so it was rented to
+of them could afford to keep up "The Pavilion," so it was rented to
 various people who ran it as a boarding house and hotel for many years.
 However, seldom a summer went by without some member of the family
-spending time at “The Pavilion,” James Kent Pell, son of William Ferris,
+spending time at "The Pavilion," James Kent Pell, son of William Ferris,
 managed the property for his brothers and sisters for many years and
 struggled to preserve it. He was shocked on coming up one summer to find
 that the breast-high wall running from the Fort to the lake, and a large
@@ -2030,7 +2061,7 @@ front and thrown in for a steamboat landing. The farmer in charge said
 that the contractor told him he had permission. It was too late to do
 anything about it.
 
-    [Illustration: Fort Ticonderoga and The Pavilion—1827]
+    [Illustration: Fort Ticonderoga and The Pavilion--1827]
 
 When James Pell died, John Howland Pell, a grandson, managed it for some
 time and later Howland Pell, a great-grandson, ran the property for a
@@ -2042,7 +2073,7 @@ shore of the Lake. They wished to build a hotel, but he refused to sell.
 
 Towards the end of the century, Stephen Pell, a little boy of eight and
 his brother, Howland, were sent up to visit their grandmother who was
-spending the summer at Fort Ticonderoga at “The Pavilion” which was then
+spending the summer at Fort Ticonderoga at "The Pavilion" which was then
 rented as a hotel. Filled with self importance at being intrusted with
 tickets and money for such a long trip alone, the boys finally arrived
 at Fort Ticonderoga. It is not hard to imagine how the Fort at once
@@ -2053,22 +2084,22 @@ were in turn Montcalm, Allen, Arnold, Burgoyne (always a successful
 officer). They ran up the hills and over the walls, demanding the
 surrender, or holding the fort. Thrill of thrills came one day when
 Stephen found the bronze flint box, containing a flint. It is typical of
-little boys that an argument resulted—Howland claiming that it was half
+little boys that an argument resulted--Howland claiming that it was half
 his as he had dislodged the stone, under which it lay, as he climbed up
 the hill. It was a beautiful little box that had belonged to a man of
 means and of distinction. One can see them standing there after the
 first raptures of finding it were over, eyes shining, picturing the Fort
 in all its past glory, with the proud walls standing, the flags flying
 and men in bright uniforms on the parade grounds. The lives of men are
-swayed by seemingly unimportant things and in Stephen Pell’s life always
+swayed by seemingly unimportant things and in Stephen Pell's life always
 there was the little flint box and the youthful dream. As he grew older
 the imagination became an obsession, and the obsession became reality as
 stone by stone, timber by timber, wall by wall, he repaired and restored
 the Fort until it stands the old Fort Ticonderoga, all built from a
-flint box, a little boy’s vivid imagination and a man’s hard work,
+flint box, a little boy's vivid imagination and a man's hard work,
 research and intelligence.
 
-    [Illustration: SIR HENRY CLINTON’S DISPATCH.]
+    [Illustration: SIR HENRY CLINTON'S DISPATCH.]
 
     [Illustration: THE SILVER BULLET.]
 
@@ -2090,23 +2121,23 @@ sold, who kept up the gardens and planted trees and who, above all,
 cherished and preserved the Fort.
 
 In 1908, Mr. and Mrs. Stephen Pell decided to rehabilitate the
-“Pavilion” and spend their summers in it so that Mr. Pell could
+"Pavilion" and spend their summers in it so that Mr. Pell could
 undertake the restoration of the Fort. There were legal, financial,
 architectural, political and engineering problems, and just plain
 problems. There was a horse living in one of the rooms of the
-“Pavilion.” There was of course no plumbing, central heating or
+"Pavilion." There was of course no plumbing, central heating or
 electricity in the house. The land belonged to 17 members of the family
 and the problem of locating them and arranging satisfactory terms of
 purchase was a long and complicated one. There were squatters living all
 along the shores of Lake Champlain, and these squatters had acquired
-squatters’ rights. Nevertheless, the house was painted and
+squatters' rights. Nevertheless, the house was painted and
 rehabilitated, plumbing was installed and Mr. and Mrs. Pell moved in.
 
 While Mr. Pell made a complete study of fortifications before one stone
 was touched at the Fort, Mrs. Pell worked incessantly on plans for the
-“Pavilion” and the Jardin du Roi. From various members of the Pell
+"Pavilion" and the Jardin du Roi. From various members of the Pell
 family she painstakingly gathered together pieces of furniture
-originally from the “Pavilion,” and added to it her collection of
+originally from the "Pavilion," and added to it her collection of
 furniture from her family, Gibbs and Thompson. She purchased only the
 most minor items, old hooked rugs, curtains and draperies. She was
 always tremendously interested in the Fort and contributed generously
@@ -2141,7 +2172,7 @@ various authorities have cooperated to the utmost of their ability, and
 with this it has been possible to carry on the work of restoration
 without any uncertainty.
 
-    [Illustration: Thomas Cole Painting of Fort, Early 1820’s]
+    [Illustration: Thomas Cole Painting of Fort, Early 1820's]
 
 One of the best maps of the Military Reservation was made by a man named
 Jeffreys, who was sent out to make surveys of the forts in this country
@@ -2153,7 +2184,7 @@ that is not given on any other.
 The engineer who laid out the Fort, de Lotbiniere, followed the plans
 and specifications of the great French engineer, Vauban. When the work
 of restoration was started Mr. Pell obtained from France the original
-manuscript of Vauban’s “Traite des Fortifications.” The book is a
+manuscript of Vauban's "Traite des Fortifications." The book is a
 fascinating leather bound folio containing many illuminated
 illustrations of bastions, demilunes, moats, and all paraphernalia of
 eighteenth century fortifications. This book is one of the most
@@ -2169,13 +2200,13 @@ and was of a very considerable height, and below this existed the French
 Village. The French Village of traders and settlers had been behind a
 stockaded wall, protected by the guns of the Fort. The houses were built
 on either side of a center walk, and consisted of small stone dwellings,
-sutler’s stores, warehouses and a blacksmith shop. On the east side a
+sutler's stores, warehouses and a blacksmith shop. On the east side a
 wall approached very close to the bastions and it was from about this
 point a wide covered way (which was never completed) extended through
-the rock to the Grenadiers’ Battery, an outlying fort located at the
+the rock to the Grenadiers' Battery, an outlying fort located at the
 extreme end of the promontory.
 
-The Place d’Armes in the center of the fort was surrounded on three
+The Place d'Armes in the center of the fort was surrounded on three
 sides by barracks and on the fourth or north side by a bomb-proof. The
 bomb proof was of arched masonry construction where the garrison kept
 stores that would be damaged by weather.
@@ -2188,13 +2219,13 @@ oven in the scullery when excavated was found to be in perfect
 condition, the iron doors and dampers still being in their original
 position.
 
-    [Illustration: Entrance To Place D’Armes]
+    [Illustration: Entrance To Place D'Armes]
 
 In the second story a number of rooms existed which could be approached
 by the exterior wooden staircase, and these are now used as a library
 and office. The outer sides of the various barracks were protected by
 the curtain walls and the walk behind these was generally at a level of
-about 8 feet above the Place d’Armes.
+about 8 feet above the Place d'Armes.
 
 The drinking water for the barracks could be obtained in the usual way
 from a military well located about one hundred yards to the north of the
@@ -2221,7 +2252,7 @@ been found of their residence here, such as the Twenty-first, and in
 this case it is inferred that they belonged to British prisoners of war
 who were brought down from St. Johns. One of the most interesting relics
 was a piece of a punch bowl of white china decorated in blue, and across
-the bottom of which is inscribed, “Success to General Amherst.” This in
+the bottom of which is inscribed, "Success to General Amherst." This in
 all probability must have been a presentation piece made either before
 the General left England or at some point on his way to take up his
 command at the Fort, and left behind when he departed. This has come
@@ -2242,7 +2273,7 @@ had remained in approximately the positions from which they fell, so
 much so that with care these today occupy the same position that they
 had before the walls were torn down.
 
-    [Illustration: The Place D’Armes]
+    [Illustration: The Place D'Armes]
 
 The mode of procedure followed in making the excavations was to cut the
 trench on either side of any walls uncovered and by this means specimens
@@ -2275,7 +2306,7 @@ posts, crowned by flagstones forming the deck of the bastion itself. The
 drains beneath the floor had outlets leading to the moat or ditch, which
 in the usual way was dry, but when an attacking force was anticipated it
 was possible to dam the outlet from this and the moat could be flooded
-by the melting of the winter snows, as several months’ advance
+by the melting of the winter snows, as several months' advance
 information in those days could readily be obtained before an attack was
 likely to take place.
 
@@ -2319,17 +2350,17 @@ the cannon themselves are all French, British and American of the
 period, presented by the American, British, Dutch, Haiten, San Dominican
 and Nicaraguan Governments, or presented by individuals (notably
 DeLancey Kountze) or purchased whenever they were found on the market.
-An immense amount of material has been found on the place itself—a
+An immense amount of material has been found on the place itself--a
 cannon, thousands of cannon balls, hand grenades, swivel balls and grape
 shot, barrels of bullets and barrels of flints, tomahawks, hatchets,
 axes, hoes, gun barrels, gun locks, bayonets, sword blades, keys,
-hinges, door locks and every kind of tool—everything that an army could
-use—dug up wherever a spade is put in the ground and only a couple of
-years ago one of the rarest finds we have ever made—the breast plate of
+hinges, door locks and every kind of tool--everything that an army could
+use--dug up wherever a spade is put in the ground and only a couple of
+years ago one of the rarest finds we have ever made--the breast plate of
 a suit of half-armor, French, early 18th century.
 
 First restorations actually were carried out a wall a season. The first
-wing completed (the officers’ mess and quarters) was filled with relics
+wing completed (the officers' mess and quarters) was filled with relics
 which Mr. Pell and other members of his family had been accumulating
 through the years. This was accomplished just in time to lock it for
 protection of its contents when he went off to World War I.
@@ -2343,7 +2374,7 @@ salary. The first balance left after his salary was paid was used for
 the purchase of some cannon of the Revolutionary period which Mr. Pell
 had located in the West Indies years before.
 
-When restoration got under way after the war, Mr. Pell’s infectious
+When restoration got under way after the war, Mr. Pell's infectious
 enthusiasm for Fort Ticonderoga and his host of friends all over the
 world, brought forth assistance from many unexpected sources. Only a few
 of the cannon actually used at Ticonderoga could be located, since
@@ -2361,7 +2392,7 @@ unexpected sources.
     [Illustration: The Ethan Allen Door (Upper Left)]
 
 Colonel Robert Means Thompson, father of Mrs. Pell, found and purchased
-twelve French bronze guns and mortars of the type used by the fort’s
+twelve French bronze guns and mortars of the type used by the fort's
 first builders. Yale University deposited cannon donated by an old
 graduate, DeLancey Kountze, but never displayed for lack of space. H.
 Jermain Slocum, retired Charleston, South Carolina, financier and nephew
@@ -2373,33 +2404,33 @@ also helped him arm the ramparts until they took on their original
 warlike aspect.
 
 Archer M. Huntington became interested, and through the years was a
-large contributor to Ticonderoga’s restoration fund.
+large contributor to Ticonderoga's restoration fund.
 
 Scions of Philip Schuyler, Alexander Hamilton, Israel Putnam, Anthony
 Wayne and many other men in some way connected with Ticonderoga have
 deposited possessions of their ancestors within the fort. Collectors of
 Revolutionary rifles, swords, powder horns and snuff boxes have willed
-their entire collections, the result of many years’ searches, to be kept
+their entire collections, the result of many years' searches, to be kept
 intact here. Even casual visitors have been so impressed that they have
 gone home and shipped family relics that the museum could never have
 acquired by purchase. Others have appointed themselves Ticonderoga
 scouts who voluntarily tipped Mr. Pell off when they located desirable
 objects.
 
-One of the museum’s proud possessions is a blunderbuss used by Ethan
+One of the museum's proud possessions is a blunderbuss used by Ethan
 Allen in taking the fort from the British, then given by him to Benedict
 Arnold, who in turn gave it to John Trumbull, the Revolutionary artist.
 It was purchased by the grandfather of Maj. Philip Rhinelander at a sale
-of Trumbull’s effects, and the Rhinelander family in turn presented it
-to the museum. Mr. Pell’s pet treasure was a hollow silver bullet taken
-from one of Sir Henry Clinton’s messengers to Burgoyne just before the
+of Trumbull's effects, and the Rhinelander family in turn presented it
+to the museum. Mr. Pell's pet treasure was a hollow silver bullet taken
+from one of Sir Henry Clinton's messengers to Burgoyne just before the
 latter surrendered at Saratoga. On capture, so papers accompanying the
 bullet show, the courier swallowed this container of secret dispatches
-and refused to take a “physick” until tough colonials threatened to “rip
-his bellie” open. The silver bullet was presented to the fort by Henry
+and refused to take a "physick" until tough colonials threatened to "rip
+his bellie" open. The silver bullet was presented to the fort by Henry
 O. Tallmadge, a descendant of a Colonel Tallmadge, who was present when
 it was captured. Other bullets show marks of teeth made while being held
-in soldiers’ mouths during floggings or amputations.
+in soldiers' mouths during floggings or amputations.
 
 At the present time the Fort is visited by some 200,000 people every
 summer. Schools in Vermont and parts of New York State send their
@@ -2412,7 +2443,7 @@ commonplace thing for people who have entered the Fort to return to pick
 up cameras in their parked autos in order to be able to take photographs
 in the beautiful surroundings.
 
-Fort Ticonderoga is a living page of American history—the most
+Fort Ticonderoga is a living page of American history--the most
 faithfully restored Fort in America and houses the greatest collection
 of Revolutionary and Colonial objects.
 
@@ -2516,13 +2547,13 @@ income tax purposes.
 ETHAN ALLEN, John Pell (_New Edition_)
 
     A sound and carefully researched biography of that controversial
-    leader of Vermont’s Green Mountain Boys
+    leader of Vermont's Green Mountain Boys
                                                                    $5.00
 
 ARUNDEL, Kenneth Roberts
 
     The story of the early history of Maine, and the magnificent march
-    of Arnold’s troops up Dead River and across the Height of Land to
+    of Arnold's troops up Dead River and across the Height of Land to
     attack Quebec
                                                                     4.00
 
@@ -2566,14 +2597,14 @@ TICONDEROGA, _The Story of a Fort_, Bruce Lancaster
 INDIAN WARS AND WARRIORS EAST, Paul I. Wellman
 
     Every major struggle between the white man and the Indian, from
-    Champlain’s attack upon the Iroquois to the subjugation of the
+    Champlain's attack upon the Iroquois to the subjugation of the
     Seminoles. Ages 11-up
                                                                     1.95
 
 WASHINGTON AND THE REVOLUTION, Lynn Montross
 
     The inspiring story of the American Revolutionary Army, the army
-    that wouldn’t stay beaten, and its great-hearted leader, George
+    that wouldn't stay beaten, and its great-hearted leader, George
     Washington. Ages 11-up
                                                                     1.95
 
@@ -2628,7 +2659,7 @@ MARCH TO SARATOGA, Harrison K. Bird
     General Burgoyne and the American Campaign, 1777
                                                                     6.50
 
-GEORGE WASHINGTON’S GENERALS, _Edited by_ Dr. George A. Billias
+GEORGE WASHINGTON'S GENERALS, _Edited by_ Dr. George A. Billias
 
     A series of penetrating essays depicting the military geniuses who
     engineered the birth of this nation
@@ -2701,15 +2732,15 @@ Supplemental Set of 8 postcards, British Regiments
 
 
 
-                          Transcriber’s Notes
+                          Transcriber's Notes
 
 
-—Silently corrected a few typos.
+--Silently corrected a few typos.
 
-—Retained publication information from the printed edition: this eBook
+--Retained publication information from the printed edition: this eBook
   is public-domain in the country of publication.
 
-—In the text versions only, text in italics is delimited by
+--In the text versions only, text in italics is delimited by
   _underscores_.
 
 
@@ -2720,4 +2751,365 @@ Supplemental Set of 8 postcards, British Regiments
 
 End of the Project Gutenberg EBook of Fort Ticonderoga, by S. H. P. Pell
 
-*** END OF THE PROJECT GUTENBERG EBOOK 55561 ***
+*** END OF THIS PROJECT GUTENBERG EBOOK FORT TICONDEROGA ***
+
+***** This file should be named 55561-8.txt or 55561-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/5/5/6/55561/
+
+Produced by Stephen Hutcheson and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
